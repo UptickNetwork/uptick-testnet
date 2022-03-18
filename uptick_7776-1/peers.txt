@@ -1,0 +1,2 @@
+f046ee3ead7e709b0fd6d5b30898e96959c1144d@peer0.testnet.uptick.network:26656
+02ee3a0f3a2002d11c5eeb7aa813b64c59d6b60e@peer1.testnet.uptick.network:26656
