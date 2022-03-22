@@ -21,7 +21,7 @@ sha256sum genesis.json
 
 ## Details
 
-- Network Chain ID: `evmos_7776-1`
+- Network Chain ID: `uptick_7776-1`
 - EIP155 Chain ID: `7776`
 - `uptickd` version: [`v0.1.0`](https://github.com/UptickNetwork/uptick/releases)
 - Faucet: [faucet.uptick.network](https://docs.uptick.network/testnet/faucet.html)
