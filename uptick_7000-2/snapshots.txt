@@ -1,0 +1,2 @@
+peer0.testnet.uptick.network:26657
+peer1.testnet.uptick.network:26657
