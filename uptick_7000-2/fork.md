@@ -10,7 +10,7 @@ uptickd tendermint unsafe-reset-all --home $HOME/.uptickd --keep-addr-book
 cat $HOME/.uptickd/priv_validator_state.json.backup
 
 # if block height more than 926000 then 
-echo "{ "height": "0", "round": 0, "step": 0 }" > $HOME/.uptickd/priv_validator_state.json.backup
+echo "{"height": "0","round": 0,"step": 0}" > $HOME/.uptickd/priv_validator_state.json.backup
 
 
 #Download genesis.json
