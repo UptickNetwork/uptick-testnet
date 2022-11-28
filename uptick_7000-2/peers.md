@@ -20,3 +20,8 @@ f97a75fb69d3a5fe893dca7c8d238ccc0bd66a8f@uptick-seed.p2p.brocha.in:30554
 902a93963c96589432ee3206944cdba392ae5c2d@65.108.42.105:27656
 ```
 
+#### kjnodes seed node
+
+```
+3f472746f46493309650e5a033076689996c8881@uptick-testnet.rpc.kjnodes.com:15659
+```
