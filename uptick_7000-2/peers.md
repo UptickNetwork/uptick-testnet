@@ -19,4 +19,8 @@ f97a75fb69d3a5fe893dca7c8d238ccc0bd66a8f@uptick-seed.p2p.brocha.in:30554
 ```
 902a93963c96589432ee3206944cdba392ae5c2d@65.108.42.105:27656
 ```
+### whonion node
 
+```
+821cec653e1bdcd6e0ea7db62ddc65e7dae9fc5b@26656
+```
