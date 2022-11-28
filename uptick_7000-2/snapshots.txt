@@ -1,0 +1,3 @@
+http://peer0.testnet.uptick.network:26657
+http://peer1.testnet.uptick.network:26657
+https://uptick-testnet-rpc.brocha.in:443
