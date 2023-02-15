@@ -12,7 +12,7 @@ In addition, the vesting account also increases the stake in the vesting state.
 
 The main test content is as follows:
 
-#### 1、Tasks Completed and Problems Discovered Through Uptick Testnet 3.0
+#### 1 Tasks Completed and Problems Discovered Through Uptick Testnet 3.0
 
 ##### 1.1 Tasks Completed
 
@@ -54,7 +54,7 @@ There is an error between the running results of the test data and the realized 
 #####   1.2.3 Burn Test, Put it on Testnet 2.0
 Since Testnet 3.0 is consistent with the main network parameters, it takes a long time  (5 days) to modify the [gensis parameters], and the burn test is transferred to the local newline and testnet2 for confirmation
 
-####   2. Test Content and Testnet Results
+####   2 Test Content and Testnet Results
 
 The connection to the test case is as follows:
 https://docs.google.com/spreadsheets/d/1OjRy73Lu5BhYW0GEZDDLdx_jyGkEkZGRoIw89u4bIzc/edit#gid=0
@@ -72,7 +72,7 @@ https://docs.google.com/spreadsheets/d/1OjRy73Lu5BhYW0GEZDDLdx_jyGkEkZGRoIw89u4b
 Corresponding test case8~9
 https://docs.google.com/spreadsheets/d/1OjRy73Lu5BhYW0GEZDDLdx_jyGkEkZGRoIw89u4bIzc/edit#gid=1541135110
 
-####    3. Individual or Team Contributors
+####    3 Individual or Team Contributors
 
 #####   3.1 Submitter of the Node (Task 1)
 
