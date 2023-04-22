@@ -1,0 +1,2011 @@
+{
+	"01469E8DA06594CC7C3BC2335898E66711DFD000": {
+		"Address": "01469E8DA06594CC7C3BC2335898E66711DFD000",
+		"AccAddress": "uptick1zh8japq7300r33948hhk2s2zc3qqy3e02ccdmh",
+		"Jailed": true,
+		"times": "22555",
+		"SurRate": "3.95"
+	},
+	"01749B081B58E5441AC129691E4A021A6254ABF9": {
+		"Address": "01749B081B58E5441AC129691E4A021A6254ABF9",
+		"AccAddress": "uptick150f7e8h7jr2pgqr6t3q5k9075sjn99clt069fk",
+		"Jailed": true,
+		"times": "5502",
+		"SurRate": "0.96"
+	},
+	"01E1D18DCC9F8E757ACBCB50F29B0E7EB181F646": {
+		"Address": "01E1D18DCC9F8E757ACBCB50F29B0E7EB181F646",
+		"AccAddress": "uptick1qf0074zg02kq4332gnlwam0007hk7e8zpfq983",
+		"Jailed": false,
+		"times": "563267",
+		"SurRate": "98.69"
+	},
+	"0354EA4F113C44E8B48DD450B8A4B066F722A24A": {
+		"Address": "0354EA4F113C44E8B48DD450B8A4B066F722A24A",
+		"AccAddress": "uptick156dcmudj3fh8eac9hsjjg37gqvaymmy975u2lg",
+		"Jailed": true,
+		"times": "7377",
+		"SurRate": "1.29"
+	},
+	"045903700D41C8B8472FB619B0E5988AF6B1312B": {
+		"Address": "045903700D41C8B8472FB619B0E5988AF6B1312B",
+		"AccAddress": "uptick17lgzlh9ckvf8c97jqmw8qfml8pkeplq5w8tptv",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"063D41CBF787A313FDA67509B5B30E7A737AC2A7": {
+		"Address": "063D41CBF787A313FDA67509B5B30E7A737AC2A7",
+		"AccAddress": "uptick1rk5lydrxykadmj8t692q47wtuqxx42l5m28udp",
+		"Jailed": false,
+		"times": "569607",
+		"SurRate": "99.80"
+	},
+	"0643F680BDAF8A4BCFDD2F841A9FFA5BCAFD72C5": {
+		"Address": "0643F680BDAF8A4BCFDD2F841A9FFA5BCAFD72C5",
+		"AccAddress": "uptick1n9urj4d6mngtuhpfysdxu7nq72e8830w97p0sy",
+		"Jailed": false,
+		"times": "566850",
+		"SurRate": "99.32"
+	},
+	"06451D2D1833575B1FA8415A054B8498C513842E": {
+		"Address": "06451D2D1833575B1FA8415A054B8498C513842E",
+		"AccAddress": "uptick177mu4fu89a8t4hmlt4r86c6kkjpm60cw765jsz",
+		"Jailed": false,
+		"times": "245731",
+		"SurRate": "43.05"
+	},
+	"067EAD4F1BDB7E073F991124B868794C735A2BE6": {
+		"Address": "067EAD4F1BDB7E073F991124B868794C735A2BE6",
+		"AccAddress": "uptick1clp8dcjqy7flu5syhv7l6pyada4zwhqae7ycyr",
+		"Jailed": true,
+		"times": "7016",
+		"SurRate": "1.23"
+	},
+	"073A949AA2767267C9A9E0310C01CE73F384EEC8": {
+		"Address": "073A949AA2767267C9A9E0310C01CE73F384EEC8",
+		"AccAddress": "uptick14luhwnxc32229yzd5xyysg8s7fa2d3m5rv6pta",
+		"Jailed": false,
+		"times": "565709",
+		"SurRate": "99.12"
+	},
+	"07CA80870554B4B906C69B7D251C003444E334C2": {
+		"Address": "07CA80870554B4B906C69B7D251C003444E334C2",
+		"AccAddress": "uptick1kn5wt05xvxjp5t9hpgsvptrwwgzj4uz6arf9q9",
+		"Jailed": false,
+		"times": "443790",
+		"SurRate": "77.76"
+	},
+	"081D5786BB71D66E85C735106254CF70A9D3E9E9": {
+		"Address": "081D5786BB71D66E85C735106254CF70A9D3E9E9",
+		"AccAddress": "uptick16zax8a9gzd3vf44zzzl8pt8cdr8ut2y8dk9x7q",
+		"Jailed": true,
+		"times": "186303",
+		"SurRate": "32.64"
+	},
+	"0A37C135825ED201EE7A19C28ECB92EC5568BFAA": {
+		"Address": "0A37C135825ED201EE7A19C28ECB92EC5568BFAA",
+		"AccAddress": "uptick1sh7pkdd45fsnnxmyseyggxxxgr80ef6grady0v",
+		"Jailed": true,
+		"times": "403493",
+		"SurRate": "70.70"
+	},
+	"0A643396DBFAFFFBCFBA2391C3AD9059B1037F5A": {
+		"Address": "0A643396DBFAFFFBCFBA2391C3AD9059B1037F5A",
+		"AccAddress": "uptick1fumt64c5ndxrme94u9pkydc9jewlj76d0nufps",
+		"Jailed": false,
+		"times": "380425",
+		"SurRate": "66.65"
+	},
+	"0ACFFCA882EF7242A673BE23582F99FAC876662E": {
+		"Address": "0ACFFCA882EF7242A673BE23582F99FAC876662E",
+		"AccAddress": "uptick1ymg6vytcefrraj02p8jyps0rjhnc7mk0p6ju8d",
+		"Jailed": false,
+		"times": "556590",
+		"SurRate": "97.52"
+	},
+	"0E1698EACDA549A7B374EA1D8CCED2AFED6D8161": {
+		"Address": "0E1698EACDA549A7B374EA1D8CCED2AFED6D8161",
+		"AccAddress": "uptick1dx5sfmg4ascplvmkn39stq3rgk0c3vhplz3ypr",
+		"Jailed": true,
+		"times": "333029",
+		"SurRate": "58.35"
+	},
+	"10B94DD9EA0C8F4B4C0B2C6F552B0212EE51D025": {
+		"Address": "10B94DD9EA0C8F4B4C0B2C6F552B0212EE51D025",
+		"AccAddress": "uptick1cvt85nr86qsa8xk0e0zah7h3fvpf5mjxcuven3",
+		"Jailed": false,
+		"times": "14004",
+		"SurRate": "2.45"
+	},
+	"115D64B08BC6BF67F8276A487D170E5FD9335A74": {
+		"Address": "115D64B08BC6BF67F8276A487D170E5FD9335A74",
+		"AccAddress": "uptick1h2e33mygd00qvmy7keddefnx7wg4mrvk0jq2s7",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"13042F7327CF39E407872EF1605F34B8B9B3F6E5": {
+		"Address": "13042F7327CF39E407872EF1605F34B8B9B3F6E5",
+		"AccAddress": "uptick1v4l492e0vp3z704fnt5792erwnqu04yy2hscmm",
+		"Jailed": true,
+		"times": "3179",
+		"SurRate": "0.56"
+	},
+	"139BA4F20CD79179D48CA1E153DCD8EC04D724BB": {
+		"Address": "139BA4F20CD79179D48CA1E153DCD8EC04D724BB",
+		"AccAddress": "uptick1hnwx585g52w2l2t3sat3y7vs9g6yd050rnu7t5",
+		"Jailed": true,
+		"times": "179875",
+		"SurRate": "31.52"
+	},
+	"1420C78FD7D4247E80302D8AA5AE7FB84811F948": {
+		"Address": "1420C78FD7D4247E80302D8AA5AE7FB84811F948",
+		"AccAddress": "uptick12yms09lqu2a39pft70terrdamyvah32mssgm3g",
+		"Jailed": false,
+		"times": "468448",
+		"SurRate": "82.08"
+	},
+	"146BD68DC7EAAD48863D25CCFB8787F44437A74B": {
+		"Address": "146BD68DC7EAAD48863D25CCFB8787F44437A74B",
+		"AccAddress": "uptick10lneeru2aqhjpmctv6zfn3gm5eaphcnrcqxm5q",
+		"Jailed": false,
+		"times": "26081",
+		"SurRate": "4.57"
+	},
+	"146D000ED62CF5CF035C4A61095F76DA9F7DEF56": {
+		"Address": "146D000ED62CF5CF035C4A61095F76DA9F7DEF56",
+		"AccAddress": "uptick1z5hnta9st50gkftu05xkmcl66eeuczu5mw7t6r",
+		"Jailed": false,
+		"times": "267999",
+		"SurRate": "46.96"
+	},
+	"17342E5EBFD1B2A4C5DCBD33A93B87C6A72448B1": {
+		"Address": "17342E5EBFD1B2A4C5DCBD33A93B87C6A72448B1",
+		"AccAddress": "uptick1qrqkgcczpv5kq8x4w26c7kcg2t5xqmz480ay4e",
+		"Jailed": false,
+		"times": "569330",
+		"SurRate": "99.75"
+	},
+	"1840980E85CA18796C58B6C50DBAAA927065F011": {
+		"Address": "1840980E85CA18796C58B6C50DBAAA927065F011",
+		"AccAddress": "uptick1z2lfk7j5w25xhmg0tfurkpsg9javalw6p8wgq8",
+		"Jailed": true,
+		"times": "2571",
+		"SurRate": "0.45"
+	},
+	"18CDD6B0920BB8FC30FCB577986050E59C4CDF62": {
+		"Address": "18CDD6B0920BB8FC30FCB577986050E59C4CDF62",
+		"AccAddress": "uptick18mcmka5np287fnv9803f8hly29s2yuygjhgq62",
+		"Jailed": false,
+		"times": "563910",
+		"SurRate": "98.80"
+	},
+	"198CBF832DA366AC3A8B1658E6797F0C0638FC86": {
+		"Address": "198CBF832DA366AC3A8B1658E6797F0C0638FC86",
+		"AccAddress": "uptick1gl3muau04ulujy490ge6lfzjwpl9h6zyd6e6fq",
+		"Jailed": false,
+		"times": "567653",
+		"SurRate": "99.46"
+	},
+	"1B254EA509C6B2428E3241F7063B0E55BC760160": {
+		"Address": "1B254EA509C6B2428E3241F7063B0E55BC760160",
+		"AccAddress": "uptick1k6glpnz277ydl55a4059m43mwgq2zsymlty50j",
+		"Jailed": true,
+		"times": "211619",
+		"SurRate": "37.08"
+	},
+	"1B4DCF7F9E452EC025F65545659D4086ABB10006": {
+		"Address": "1B4DCF7F9E452EC025F65545659D4086ABB10006",
+		"AccAddress": "uptick1kxnzejfucsye8slv48w6tcxcg3y8eyp2t4mjtq",
+		"Jailed": false,
+		"times": "568454",
+		"SurRate": "99.60"
+	},
+	"1BA06696186563F17B291C7E362A4B5A80282A4E": {
+		"Address": "1BA06696186563F17B291C7E362A4B5A80282A4E",
+		"AccAddress": "uptick1xyq3m05p8ujqh3aza3m7hal0jqnd96k6cnfkkl",
+		"Jailed": true,
+		"times": "440482",
+		"SurRate": "77.18"
+	},
+	"1C0E7F43E2E10C253DD59695B601CD3D1757AAA2": {
+		"Address": "1C0E7F43E2E10C253DD59695B601CD3D1757AAA2",
+		"AccAddress": "uptick1j9p22kqvth2g870fpf6st4a2ygwkfkxcnxu07q",
+		"Jailed": false,
+		"times": "565986",
+		"SurRate": "99.17"
+	},
+	"1C21A1A4A59D07CDB891BE9DCA4411675FE41B8C": {
+		"Address": "1C21A1A4A59D07CDB891BE9DCA4411675FE41B8C",
+		"AccAddress": "uptick1adeu5xycnvc4dme94mjj7zkdfch0vj8ycnx02x",
+		"Jailed": false,
+		"times": "522084",
+		"SurRate": "91.47"
+	},
+	"1C462D25622862454D66BCDE787475D0BF5C907E": {
+		"Address": "1C462D25622862454D66BCDE787475D0BF5C907E",
+		"AccAddress": "uptick1v2xr0rpaqdlmx9dd6ecqgktjw9qggrqykutljx",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"1C7903F226438890A8F992A327C2E29D8998F695": {
+		"Address": "1C7903F226438890A8F992A327C2E29D8998F695",
+		"AccAddress": "uptick1l53xghg825p0tse6swdq5lrevl95hkz8vayajp",
+		"Jailed": false,
+		"times": "121772",
+		"SurRate": "21.34"
+	},
+	"1D1A3CA789E69AC561C3B0622AA0ECA1977443F0": {
+		"Address": "1D1A3CA789E69AC561C3B0622AA0ECA1977443F0",
+		"AccAddress": "uptick1jp0d5vqs3nve3asvw4t2savne04tcyqpy528fm",
+		"Jailed": true,
+		"times": "528970",
+		"SurRate": "92.68"
+	},
+	"1DE038BF1BB9FAC524614D78DD45097294D6F022": {
+		"Address": "1DE038BF1BB9FAC524614D78DD45097294D6F022",
+		"AccAddress": "uptick1qc8vtkr0y8f2vn70squwlplue9urm2xkjfjcs3",
+		"Jailed": true,
+		"times": "7362",
+		"SurRate": "1.29"
+	},
+	"1EAB40B49E0E4965995848A4710E6AB81943E789": {
+		"Address": "1EAB40B49E0E4965995848A4710E6AB81943E789",
+		"AccAddress": "uptick1mkq2msy6qradm2jt64l37pa555nvdwqddy0plx",
+		"Jailed": false,
+		"times": "33480",
+		"SurRate": "5.87"
+	},
+	"21E35D624B17A05BF1C0F39FD16C4F507AFACA4F": {
+		"Address": "21E35D624B17A05BF1C0F39FD16C4F507AFACA4F",
+		"AccAddress": "uptick17teweyh32daplnc06q0dqqn6j6pzm06eapvfz6",
+		"Jailed": false,
+		"times": "562216",
+		"SurRate": "98.51"
+	},
+	"22235499751FCE3792717F19CA138E7999570CF5": {
+		"Address": "22235499751FCE3792717F19CA138E7999570CF5",
+		"AccAddress": "uptick193y47nwv2snm8vtn35vmfnuga02tm42fyxeagw",
+		"Jailed": false,
+		"times": "530697",
+		"SurRate": "92.98"
+	},
+	"22E35527184280E443B8D853F0B75BDD28359A34": {
+		"Address": "22E35527184280E443B8D853F0B75BDD28359A34",
+		"AccAddress": "uptick105nmnu95thz699cjkt325saknaht0yr78gjs7g",
+		"Jailed": true,
+		"times": "218185",
+		"SurRate": "38.23"
+	},
+	"22FAE03358FF5C5566B8CF2CC813CBAF2AFDA0A7": {
+		"Address": "22FAE03358FF5C5566B8CF2CC813CBAF2AFDA0A7",
+		"AccAddress": "uptick1ekmehf0r5uw8n57su6pvt8zl79ltdd8phx4dzl",
+		"Jailed": true,
+		"times": "91328",
+		"SurRate": "16.00"
+	},
+	"231D2E09EAEA3118A2F180FC198AEF43DE06ED25": {
+		"Address": "231D2E09EAEA3118A2F180FC198AEF43DE06ED25",
+		"AccAddress": "uptick1axr62738kwh85pl54kj0s665s78du96wnljvd9",
+		"Jailed": false,
+		"times": "467934",
+		"SurRate": "81.99"
+	},
+	"2379F07B02941791FB5238AC3234BBE6C7FC4121": {
+		"Address": "2379F07B02941791FB5238AC3234BBE6C7FC4121",
+		"AccAddress": "uptick17ty9kj4wg98zjm2qhhxpt80spzavekfm003yej",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"2640C4B31416C6FA0669C8A0B179B451CACC98DF": {
+		"Address": "2640C4B31416C6FA0669C8A0B179B451CACC98DF",
+		"AccAddress": "uptick1myp4m06jdqdnaxcpqxmeql0n40usu2n7pkufc9",
+		"Jailed": false,
+		"times": "535716",
+		"SurRate": "93.86"
+	},
+	"295D7584AE9B0649143A90636A41330B7373DCB9": {
+		"Address": "295D7584AE9B0649143A90636A41330B7373DCB9",
+		"AccAddress": "uptick19tnnqdm97y0vk4ttv8vx7hu349ges7sq6ff3fp",
+		"Jailed": false,
+		"times": "233251",
+		"SurRate": "40.87"
+	},
+	"29F3498C921EA277552CBE78F644257810CAD9DE": {
+		"Address": "29F3498C921EA277552CBE78F644257810CAD9DE",
+		"AccAddress": "uptick1l5tcmuet4a4r6pvazhh78jjuqtnfwmkyvk3scc",
+		"Jailed": false,
+		"times": "569971",
+		"SurRate": "99.86"
+	},
+	"2A9C20F37F415E6563A4A4DC7BEEF242E9A827F4": {
+		"Address": "2A9C20F37F415E6563A4A4DC7BEEF242E9A827F4",
+		"AccAddress": "uptick1fwy6lsxjpudwrnkxpz55k878a2kg5fvxggxc0z",
+		"Jailed": true,
+		"times": "417453",
+		"SurRate": "73.14"
+	},
+	"2B4C59FEB4C09FE3C4FE1298E92745E6A7ABD621": {
+		"Address": "2B4C59FEB4C09FE3C4FE1298E92745E6A7ABD621",
+		"AccAddress": "uptick164r3p457uh3m36khl4tncu3guyuwvr7nv0lya3",
+		"Jailed": true,
+		"times": "366586",
+		"SurRate": "64.23"
+	},
+	"2C8B0118CBB1947BF4E7420C188DF61E2CE78FE6": {
+		"Address": "2C8B0118CBB1947BF4E7420C188DF61E2CE78FE6",
+		"AccAddress": "uptick1fskpkwed0d8ctpx7s44awka0p92766uvja9zcr",
+		"Jailed": true,
+		"times": "131061",
+		"SurRate": "22.96"
+	},
+	"2D145DDE6C08827879B0C02056415FA546EB8E23": {
+		"Address": "2D145DDE6C08827879B0C02056415FA546EB8E23",
+		"AccAddress": "uptick1pyda07uxzgahgprnklpffpdwkl6mg98llclchp",
+		"Jailed": true,
+		"times": "504906",
+		"SurRate": "88.46"
+	},
+	"2E7ADE67773843DCD9E5180AEF056851E9FA0A93": {
+		"Address": "2E7ADE67773843DCD9E5180AEF056851E9FA0A93",
+		"AccAddress": "uptick1znt3hh2v8nrewf44h7n78kempcdfn34qv7z6hw",
+		"Jailed": true,
+		"times": "475860",
+		"SurRate": "83.37"
+	},
+	"30BA365CFD5FFFD5AB27592073AED64866DA5FFC": {
+		"Address": "30BA365CFD5FFFD5AB27592073AED64866DA5FFC",
+		"AccAddress": "uptick1lld9lsx7ugfkxj9k64fnxsc6lt79fydpv346f8",
+		"Jailed": false,
+		"times": "528279",
+		"SurRate": "92.56"
+	},
+	"32B66C2AFB5775B9F45426FB4D8FB8813E2B75BE": {
+		"Address": "32B66C2AFB5775B9F45426FB4D8FB8813E2B75BE",
+		"AccAddress": "uptick13u33c6m527ds8hvnn53mmx72hhnyssu5vsg3n3",
+		"Jailed": false,
+		"times": "570107",
+		"SurRate": "99.89"
+	},
+	"331B4529484D680FB72F7BB27F8CFF604F332245": {
+		"Address": "331B4529484D680FB72F7BB27F8CFF604F332245",
+		"AccAddress": "uptick12t32g6m2wh2v835zak3n94g55nksm59zpc5qtc",
+		"Jailed": true,
+		"times": "17492",
+		"SurRate": "3.06"
+	},
+	"33BD9FB750AA8634FF4627059F281852E83A8DF6": {
+		"Address": "33BD9FB750AA8634FF4627059F281852E83A8DF6",
+		"AccAddress": "uptick109jpgzszcfaanwze0ht45q9afsmw6t8qvassf6",
+		"Jailed": true,
+		"times": "253036",
+		"SurRate": "44.33"
+	},
+	"33D4E3F94366F28391E398E182760B2A262ABCC0": {
+		"Address": "33D4E3F94366F28391E398E182760B2A262ABCC0",
+		"AccAddress": "uptick1tyl40y3hgtvephg2ke8p2uzu7k69xwgvduhrp3",
+		"Jailed": true,
+		"times": "369406",
+		"SurRate": "64.72"
+	},
+	"33F6F12692EF950EC6661F5DC5A4030CDAAA6CFC": {
+		"Address": "33F6F12692EF950EC6661F5DC5A4030CDAAA6CFC",
+		"AccAddress": "uptick1rnzqjym5ggaqn6tcnwyrxcm33pev4mwrkg755e",
+		"Jailed": false,
+		"times": "72706",
+		"SurRate": "12.74"
+	},
+	"34B84B2617C32DB43A3A5872DFCD6742DFEE26CF": {
+		"Address": "34B84B2617C32DB43A3A5872DFCD6742DFEE26CF",
+		"AccAddress": "uptick1mjm3cnrpu4dn92am56vvnweddvcy5llesapyr9",
+		"Jailed": false,
+		"times": "563245",
+		"SurRate": "98.69"
+	},
+	"368BF4D8CB3ED4F3B66AD90C92A682DA88237448": {
+		"Address": "368BF4D8CB3ED4F3B66AD90C92A682DA88237448",
+		"AccAddress": "uptick16q6tve92rgep9zpgvyyrvv6p26nv6ylxn0v3n9",
+		"Jailed": false,
+		"times": "218135",
+		"SurRate": "38.22"
+	},
+	"374B4ABDDDA5AD456771AAC29BE3CD12B422DA77": {
+		"Address": "374B4ABDDDA5AD456771AAC29BE3CD12B422DA77",
+		"AccAddress": "uptick10qmu3hkepj594v0eph2e6dvexp6t2jun08m3af",
+		"Jailed": false,
+		"times": "564114",
+		"SurRate": "98.84"
+	},
+	"38C405091AFB1C82D9AF23E02801FD6F11AFFFAA": {
+		"Address": "38C405091AFB1C82D9AF23E02801FD6F11AFFFAA",
+		"AccAddress": "uptick1705kttm5ydturn50y6nkhgpuftyj2w7j4fjvza",
+		"Jailed": true,
+		"times": "431363",
+		"SurRate": "75.58"
+	},
+	"3AF52AAA930CF138C4FBFC3CD431C563D49DF1AA": {
+		"Address": "3AF52AAA930CF138C4FBFC3CD431C563D49DF1AA",
+		"AccAddress": "uptick1nqmt5mxgw64tr554fvchkfu8cqphmnhgcacp0t",
+		"Jailed": true,
+		"times": "456438",
+		"SurRate": "79.97"
+	},
+	"3B23DAE8E33F9F9DB9284355F9846E913D622400": {
+		"Address": "3B23DAE8E33F9F9DB9284355F9846E913D622400",
+		"AccAddress": "uptick1v67v6nwspf449zy2ma0dw7z4awlnpwzxqwhc8g",
+		"Jailed": false,
+		"times": "565110",
+		"SurRate": "99.01"
+	},
+	"3C4AC0FD24E8D60D5A153F4BCD83C2913795EC03": {
+		"Address": "3C4AC0FD24E8D60D5A153F4BCD83C2913795EC03",
+		"AccAddress": "uptick1s9lfcclj9y35jrxjvn29qh99unvk694ycs9uf4",
+		"Jailed": true,
+		"times": "8695",
+		"SurRate": "1.52"
+	},
+	"3E5365822B606F45529CC54BB56BA3C288318C8E": {
+		"Address": "3E5365822B606F45529CC54BB56BA3C288318C8E",
+		"AccAddress": "uptick1xntcx5xuquaj3ewvgvuk772cayej0lwwddgnrh",
+		"Jailed": false,
+		"times": "561941",
+		"SurRate": "98.46"
+	},
+	"3EB52177B3DB6AC5B763A0037A934BEEBC6AF993": {
+		"Address": "3EB52177B3DB6AC5B763A0037A934BEEBC6AF993",
+		"AccAddress": "uptick12492wecaw9g66a3drmr7rt9dwl7u88v36eq4hl",
+		"Jailed": true,
+		"times": "535782",
+		"SurRate": "93.87"
+	},
+	"3F5583815F35BE36AEFB6BBC7747D0E35F6BAD24": {
+		"Address": "3F5583815F35BE36AEFB6BBC7747D0E35F6BAD24",
+		"AccAddress": "uptick1pqxp2gtnj9d7cg0mc9wz4ltztzlyhef4u5whzy",
+		"Jailed": false,
+		"times": "566901",
+		"SurRate": "99.33"
+	},
+	"3FA624451A984F2F4DBDAAF62C0FB0BE2051725B": {
+		"Address": "3FA624451A984F2F4DBDAAF62C0FB0BE2051725B",
+		"AccAddress": "uptick1wjlzw5dmy060fp0xm4vsmtfs56ga0aadpk69v4",
+		"Jailed": false,
+		"times": "235782",
+		"SurRate": "41.31"
+	},
+	"419DA5A25AD64BCB018869EB9C296053596F37D9": {
+		"Address": "419DA5A25AD64BCB018869EB9C296053596F37D9",
+		"AccAddress": "uptick19tgdvu00kjfkmvts9g8zd7wml8s8tad25rrxvx",
+		"Jailed": false,
+		"times": "294712",
+		"SurRate": "51.64"
+	},
+	"44141A36391F6C38478E1B6615D0B2A768C7BF56": {
+		"Address": "44141A36391F6C38478E1B6615D0B2A768C7BF56",
+		"AccAddress": "uptick1wtzmv6g09m80aq96l5wkp3de86l3nsj4h2y6pz",
+		"Jailed": true,
+		"times": "7371",
+		"SurRate": "1.29"
+	},
+	"44B08ABD1E506534C2AE978129DDDA2DBAFE7C35": {
+		"Address": "44B08ABD1E506534C2AE978129DDDA2DBAFE7C35",
+		"AccAddress": "uptick1xjqy5ezmxjxdn8f555pz743x83l2x498p89mwq",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"44B7B5EAEC6644567962B8664703E40A585C5FC7": {
+		"Address": "44B7B5EAEC6644567962B8664703E40A585C5FC7",
+		"AccAddress": "uptick1sagprl2lhaz0c6zp8kp4a8pwsnx0kvpkxk09j3",
+		"Jailed": false,
+		"times": "41799",
+		"SurRate": "7.32"
+	},
+	"45A7F0F1B6A3C1A3426926A269146CC6649E79C7": {
+		"Address": "45A7F0F1B6A3C1A3426926A269146CC6649E79C7",
+		"AccAddress": "uptick1feuut059xddvmdv2qqzsc4azn3vf5d8jfj9442",
+		"Jailed": false,
+		"times": "297007",
+		"SurRate": "52.04"
+	},
+	"466DA12BB04A5F6669294D79CA70A761672DAC03": {
+		"Address": "466DA12BB04A5F6669294D79CA70A761672DAC03",
+		"AccAddress": "uptick14ne9g5kc758468xkfxrtvrlc6knkz48q5gmqu4",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"46AAF5EC69E879E7A20CCF27265BA9F5E5C17C34": {
+		"Address": "46AAF5EC69E879E7A20CCF27265BA9F5E5C17C34",
+		"AccAddress": "uptick1rdxnus099r6k60gtdyh2wf435xtdvf0c4f5agq",
+		"Jailed": false,
+		"times": "569288",
+		"SurRate": "99.74"
+	},
+	"4701DE0EE5114135B279D923DC438EC72CC75B28": {
+		"Address": "4701DE0EE5114135B279D923DC438EC72CC75B28",
+		"AccAddress": "uptick1zedvg70l0gc9czdnxu88zrhp4nnhqxlsdvmrna",
+		"Jailed": false,
+		"times": "363170",
+		"SurRate": "63.63"
+	},
+	"48556EDD873DCCEE847D4B701479C60A6A574962": {
+		"Address": "48556EDD873DCCEE847D4B701479C60A6A574962",
+		"AccAddress": "uptick1dumf3h5m3w2napsh3qe5ll4cvk88yg93zgecu7",
+		"Jailed": true,
+		"times": "863",
+		"SurRate": "0.15"
+	},
+	"48722FEB06772C436C9CF1A38D73153D7F94C3B5": {
+		"Address": "48722FEB06772C436C9CF1A38D73153D7F94C3B5",
+		"AccAddress": "uptick1urfd405ur8ajs8d8e7tshm7u4jaw4kxucv0d9g",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"4891D40061F799C291E7F76FA055931E09942E03": {
+		"Address": "4891D40061F799C291E7F76FA055931E09942E03",
+		"AccAddress": "uptick1q8ufau6t8ws0l2ac59shzmav44qvxpnk7z6p92",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"48A23D63978F9FFE9BCBCCEDFF02865D4D1D2D65": {
+		"Address": "48A23D63978F9FFE9BCBCCEDFF02865D4D1D2D65",
+		"AccAddress": "uptick1k9ptu3xzauwrw2hdecgt6grqcdh4f3h8w4r0xj",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"49B569D60E3476C4B5C033C0F63EE0B719B7DCD8": {
+		"Address": "49B569D60E3476C4B5C033C0F63EE0B719B7DCD8",
+		"AccAddress": "uptick1ejx6ef0pk7ryq306fnfkz3rs9m7u2g6f6n0xuk",
+		"Jailed": true,
+		"times": "79919",
+		"SurRate": "14.00"
+	},
+	"4A9DAE158E49E59ED31A6E63E3B1A567012233C1": {
+		"Address": "4A9DAE158E49E59ED31A6E63E3B1A567012233C1",
+		"AccAddress": "uptick198rdpmvkvvrvl7wwlvk7j3fylk7j0f9j2k3x8r",
+		"Jailed": true,
+		"times": "524529",
+		"SurRate": "91.90"
+	},
+	"4B1BBD8E06C3480B00CB51F302A5A6064160EFDF": {
+		"Address": "4B1BBD8E06C3480B00CB51F302A5A6064160EFDF",
+		"AccAddress": "uptick1wsdflj53mlm6qqwwne5z3s930m2476j47a46pe",
+		"Jailed": false,
+		"times": "562377",
+		"SurRate": "98.53"
+	},
+	"4C38D81359B68BFE48DF7B0C17018209C6DB2812": {
+		"Address": "4C38D81359B68BFE48DF7B0C17018209C6DB2812",
+		"AccAddress": "uptick16krf9n99lqf7rlducvacjsfhyuu5l4mf7e3ghf",
+		"Jailed": true,
+		"times": "3127",
+		"SurRate": "0.55"
+	},
+	"4CD01E2FAA21230A6064F7FE84CDFD72779B1BA6": {
+		"Address": "4CD01E2FAA21230A6064F7FE84CDFD72779B1BA6",
+		"AccAddress": "uptick1d59xr28ynmln9dkr88wu5zmjq23fv9ar4gmshj",
+		"Jailed": false,
+		"times": "537206",
+		"SurRate": "94.12"
+	},
+	"4D0159E00796936B3FAD685959A6A93523968B76": {
+		"Address": "4D0159E00796936B3FAD685959A6A93523968B76",
+		"AccAddress": "uptick1p4l8nqt5mhpgj42m0hn0vcwhfst8e2pyvdsejx",
+		"Jailed": true,
+		"times": "532737",
+		"SurRate": "93.34"
+	},
+	"4EA02CD95DBA2C925145975A9F7F9914A20C16DB": {
+		"Address": "4EA02CD95DBA2C925145975A9F7F9914A20C16DB",
+		"AccAddress": "uptick1p39ja82y0ghkta8aqud7zegm7q3gkaspswp8we",
+		"Jailed": true,
+		"times": "407780",
+		"SurRate": "71.45"
+	},
+	"4EFFF3EF7EB183EA0FF8BA036AF30FB372C294B6": {
+		"Address": "4EFFF3EF7EB183EA0FF8BA036AF30FB372C294B6",
+		"AccAddress": "uptick1j8zavepn52v2qpfu66utn6qhqpnhjq0ykgg26d",
+		"Jailed": true,
+		"times": "8289",
+		"SurRate": "1.45"
+	},
+	"50860003190BC02E681D9C51427C1C28C96831AD": {
+		"Address": "50860003190BC02E681D9C51427C1C28C96831AD",
+		"AccAddress": "uptick1mgxrnu4d86wwj8gptgl8cj3s6s3chjdzck8mmw",
+		"Jailed": false,
+		"times": "294512",
+		"SurRate": "51.60"
+	},
+	"50B014F5A0A7C57C0F5D38709E7849ACA9E739A4": {
+		"Address": "50B014F5A0A7C57C0F5D38709E7849ACA9E739A4",
+		"AccAddress": "uptick10d0vkcvuwx0vfwdr2urew98nx0gyusnz0qd338",
+		"Jailed": true,
+		"times": "28029",
+		"SurRate": "4.91"
+	},
+	"5200C7542FB8A4EDFFCDA6D8F26146E95BC7EADC": {
+		"Address": "5200C7542FB8A4EDFFCDA6D8F26146E95BC7EADC",
+		"AccAddress": "uptick1tlrkwpwnfj5g3jfrxjqfvkumhv5wvuhaz5674l",
+		"Jailed": true,
+		"times": "227955",
+		"SurRate": "39.94"
+	},
+	"52017115B6B4D069047957C5BD1A9FC85FF55AAC": {
+		"Address": "52017115B6B4D069047957C5BD1A9FC85FF55AAC",
+		"AccAddress": "uptick1afvp8f7kts5m43dlgxq4gsa05u8ptlhx2quzqa",
+		"Jailed": false,
+		"times": "568108",
+		"SurRate": "99.54"
+	},
+	"52A1D33184D81DE40E89F522F8C6F74BAE61F398": {
+		"Address": "52A1D33184D81DE40E89F522F8C6F74BAE61F398",
+		"AccAddress": "uptick13qfah88u6kpmwd74hqyjwmk6j062cnfhmnwfw0",
+		"Jailed": false,
+		"times": "534168",
+		"SurRate": "93.59"
+	},
+	"53442405313E98204FA9658D571E7A37FF699B42": {
+		"Address": "53442405313E98204FA9658D571E7A37FF699B42",
+		"AccAddress": "uptick1tmzdam2pd47qw8uz0k3hy7dsg6q6tfta9e2s8h",
+		"Jailed": false,
+		"times": "520425",
+		"SurRate": "91.18"
+	},
+	"53D439C13BFD95D9B0AEC59C8298BB9C5B79318F": {
+		"Address": "53D439C13BFD95D9B0AEC59C8298BB9C5B79318F",
+		"AccAddress": "uptick1jvu86dxnjx369yv9ku8nj282q78aydkjpawh4j",
+		"Jailed": true,
+		"times": "261747",
+		"SurRate": "45.86"
+	},
+	"5981D763E0CFADF1124E1168DBDA4DE02C2AA543": {
+		"Address": "5981D763E0CFADF1124E1168DBDA4DE02C2AA543",
+		"AccAddress": "uptick1gqm28vz2arctqhcvjhee7gnp5jkdvhhl7vwqn2",
+		"Jailed": false,
+		"times": "569709",
+		"SurRate": "99.82"
+	},
+	"59C1C92E96AD3CC344B0CFA0135D55C3AF3AAB5B": {
+		"Address": "59C1C92E96AD3CC344B0CFA0135D55C3AF3AAB5B",
+		"AccAddress": "uptick1p79vhutp7tr4qu6h9l5m2djaehxjem7ghkmytt",
+		"Jailed": false,
+		"times": "362870",
+		"SurRate": "63.58"
+	},
+	"5A2F76A85CBEF412DD874742999AA67A737F083B": {
+		"Address": "5A2F76A85CBEF412DD874742999AA67A737F083B",
+		"AccAddress": "uptick1ywp0zk22lmz7qp46hqvw0hpsscvt0zzlldtqdd",
+		"Jailed": false,
+		"times": "553128",
+		"SurRate": "96.91"
+	},
+	"5B75963402C6A15FC74B4B6EAC2AA562C1F8379A": {
+		"Address": "5B75963402C6A15FC74B4B6EAC2AA562C1F8379A",
+		"AccAddress": "uptick1cwesu4r2wrjlumnkytkusukw9es8h4p7ljtd23",
+		"Jailed": false,
+		"times": "293209",
+		"SurRate": "51.37"
+	},
+	"5CB2DDB4699CB98F583A88DE91AE0C968D650B43": {
+		"Address": "5CB2DDB4699CB98F583A88DE91AE0C968D650B43",
+		"AccAddress": "uptick1ajme6337p223gsp5mvty32asft4790ljfduy6m",
+		"Jailed": false,
+		"times": "356958",
+		"SurRate": "62.54"
+	},
+	"5D4E9C27565FDAA18D5916828D3C79E50990527C": {
+		"Address": "5D4E9C27565FDAA18D5916828D3C79E50990527C",
+		"AccAddress": "uptick1uv32qymwdsnx9lkqzcwkrlg0w7mdpawe2ntjl4",
+		"Jailed": true,
+		"times": "10354",
+		"SurRate": "1.81"
+	},
+	"5D5341DA3E04A84A9CC7653A4ACEC2693D4190C5": {
+		"Address": "5D5341DA3E04A84A9CC7653A4ACEC2693D4190C5",
+		"AccAddress": "uptick1w5v87a27gtad9948vgfjuqdpe4ravw4s7ueuhs",
+		"Jailed": true,
+		"times": "7394",
+		"SurRate": "1.30"
+	},
+	"5E4051DBEB5747A6F6449A217733B8B9B264BC8B": {
+		"Address": "5E4051DBEB5747A6F6449A217733B8B9B264BC8B",
+		"AccAddress": "uptick16ymq0eefwhhw886de2xem9xs98d7h48u0204kc",
+		"Jailed": true,
+		"times": "304387",
+		"SurRate": "53.33"
+	},
+	"5E69EC2AFAABC7DAF14D503EEAB3C80D5B84BAE1": {
+		"Address": "5E69EC2AFAABC7DAF14D503EEAB3C80D5B84BAE1",
+		"AccAddress": "uptick1sedud5ss68sqd8mv3a3m0d23xs58ypzdxh4433",
+		"Jailed": false,
+		"times": "566020",
+		"SurRate": "99.17"
+	},
+	"5EDC89A6A0882C50944F259F565EF2C972762110": {
+		"Address": "5EDC89A6A0882C50944F259F565EF2C972762110",
+		"AccAddress": "uptick10fuzw8na8htyj5md3k27mglxrlqt0rhpscqqev",
+		"Jailed": true,
+		"times": "427025",
+		"SurRate": "74.82"
+	},
+	"5F75959C77A6D6F90B412FAC773E44CAAD0144C3": {
+		"Address": "5F75959C77A6D6F90B412FAC773E44CAAD0144C3",
+		"AccAddress": "uptick14zc0dz6udeaszva80v00rw202djepsc73a8z6z",
+		"Jailed": false,
+		"times": "563939",
+		"SurRate": "98.81"
+	},
+	"5FC8293EADADB98075C2C4A30FDC59346F43D63A": {
+		"Address": "5FC8293EADADB98075C2C4A30FDC59346F43D63A",
+		"AccAddress": "uptick1p3jh5vwyq5v6sr3xwclxfqpu4ypfv4c5spg7a5",
+		"Jailed": true,
+		"times": "390637",
+		"SurRate": "68.44"
+	},
+	"602E8C6740540B72C385C0F95409C245F02C1404": {
+		"Address": "602E8C6740540B72C385C0F95409C245F02C1404",
+		"AccAddress": "uptick18c3twkpmynrzg0up6ds34rm9lp3wnar9lk4rq6",
+		"Jailed": false,
+		"times": "569628",
+		"SurRate": "99.80"
+	},
+	"603E2DA54D406FE91D81F6E5EFEFACD3142CD83A": {
+		"Address": "603E2DA54D406FE91D81F6E5EFEFACD3142CD83A",
+		"AccAddress": "uptick1glrrlx2tawzkx722l7lqln639cyxca2zpjve8q",
+		"Jailed": false,
+		"times": "569789",
+		"SurRate": "99.83"
+	},
+	"614B8246C19083FE48DD737571D026443FA1E400": {
+		"Address": "614B8246C19083FE48DD737571D026443FA1E400",
+		"AccAddress": "uptick17jkr3whaxd9qugf82c2jawyfhrruqg92gd26qr",
+		"Jailed": false,
+		"times": "564234",
+		"SurRate": "98.86"
+	},
+	"6292009EB888032EA3A0E0D7B83A5EB5BB2479C0": {
+		"Address": "6292009EB888032EA3A0E0D7B83A5EB5BB2479C0",
+		"AccAddress": "uptick1judmfzpc8t28memmk67nu9n4eg3x6h6mhvzrgu",
+		"Jailed": false,
+		"times": "280600",
+		"SurRate": "49.16"
+	},
+	"62FC39C1C28C88F275D22ED41ABA8A34F53B3E5E": {
+		"Address": "62FC39C1C28C88F275D22ED41ABA8A34F53B3E5E",
+		"AccAddress": "uptick10ksp9fzs2va5xav56xc49zqw06dus8aa88tcnp",
+		"Jailed": true,
+		"times": "6891",
+		"SurRate": "1.21"
+	},
+	"6382B1D4CB0A0F502D8EF6D72EB7E734A195329F": {
+		"Address": "6382B1D4CB0A0F502D8EF6D72EB7E734A195329F",
+		"AccAddress": "uptick1s9njyuygekelkwr893d2zm2mutkkgs5jmnsl0q",
+		"Jailed": true,
+		"times": "521380",
+		"SurRate": "91.35"
+	},
+	"64409E04ED18F028438042B973104EA7D4D5A22F": {
+		"Address": "64409E04ED18F028438042B973104EA7D4D5A22F",
+		"AccAddress": "uptick16pvkuw0helsec9nkzknsfhwapcr2af0psh5nf5",
+		"Jailed": true,
+		"times": "13304",
+		"SurRate": "2.33"
+	},
+	"64693C070E6D886925D9300AB563AB2612EFC6A8": {
+		"Address": "64693C070E6D886925D9300AB563AB2612EFC6A8",
+		"AccAddress": "uptick1q0jmp5xj4xnx2sz5kx6glvvfns3kt6lkjqkl8e",
+		"Jailed": false,
+		"times": "559354",
+		"SurRate": "98.00"
+	},
+	"654D39F8F03C16403BB590F371394C2385541CFB": {
+		"Address": "654D39F8F03C16403BB590F371394C2385541CFB",
+		"AccAddress": "uptick187yk7f6eukk88c8qvy4h0js8q6ehg6hx8644zg",
+		"Jailed": false,
+		"times": "569624",
+		"SurRate": "99.80"
+	},
+	"6668F05A35F9B6D56B9B49193D8D17248472F2E5": {
+		"Address": "6668F05A35F9B6D56B9B49193D8D17248472F2E5",
+		"AccAddress": "uptick16kfuuplwheamk3l9zmzj059tn2luxx9vy4y6kf",
+		"Jailed": true,
+		"times": "52857",
+		"SurRate": "9.26"
+	},
+	"66C0997BCAA834783FC6E46645858EDE31D3340C": {
+		"Address": "66C0997BCAA834783FC6E46645858EDE31D3340C",
+		"AccAddress": "uptick1p4hynvcf2zntwld53edt8u3jste86fsq7lh0r5",
+		"Jailed": false,
+		"times": "569309",
+		"SurRate": "99.75"
+	},
+	"6788C6E1A57F73F4639B141B0D9ABF0F5CD3A7B5": {
+		"Address": "6788C6E1A57F73F4639B141B0D9ABF0F5CD3A7B5",
+		"AccAddress": "uptick1fwytnspqqan5e0r4p0dg4k4f7kuvhws4fgf3gv",
+		"Jailed": false,
+		"times": "534027",
+		"SurRate": "93.57"
+	},
+	"6920035DF45AB1A05C0BAA186759058F2481DA9F": {
+		"Address": "6920035DF45AB1A05C0BAA186759058F2481DA9F",
+		"AccAddress": "uptick10qew9u4cencrex4w9kxlz5h0394enxfzrqyxgg",
+		"Jailed": false,
+		"times": "553179",
+		"SurRate": "96.92"
+	},
+	"699FA869F26907FB94E50FF1EFE1AEC69214A952": {
+		"Address": "699FA869F26907FB94E50FF1EFE1AEC69214A952",
+		"AccAddress": "uptick1df6kxcuzz2pndpl3pnmfl8rg3vggpv7mv599hn",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"69F8D617001F7192B2818F4B5CD9AE91C0A7604F": {
+		"Address": "69F8D617001F7192B2818F4B5CD9AE91C0A7604F",
+		"AccAddress": "uptick1lgnava3767q2u63lc7xthcsazwzgdu8lv2yt5a",
+		"Jailed": true,
+		"times": "243895",
+		"SurRate": "42.73"
+	},
+	"6D1833FAB5C8B08ADD78F1B1C386E5738F68DB30": {
+		"Address": "6D1833FAB5C8B08ADD78F1B1C386E5738F68DB30",
+		"AccAddress": "uptick1n76g0yrfc2u64ynha3mfr20qghrtt2ee29d9py",
+		"Jailed": false,
+		"times": "550784",
+		"SurRate": "96.50"
+	},
+	"6EDBF5FF7A422194392A7A44CEBDCD338AFD8704": {
+		"Address": "6EDBF5FF7A422194392A7A44CEBDCD338AFD8704",
+		"AccAddress": "uptick154rdac0atx9rg4enr84wyttg37p8hmzvlctlka",
+		"Jailed": true,
+		"times": "549151",
+		"SurRate": "96.22"
+	},
+	"6EF93EC7192DCF596039C0EC6A1F8172B6AEC802": {
+		"Address": "6EF93EC7192DCF596039C0EC6A1F8172B6AEC802",
+		"AccAddress": "uptick1gcktyywu6hgdwum2620hhtgnmss4pjw0n8qgs2",
+		"Jailed": false,
+		"times": "569727",
+		"SurRate": "99.82"
+	},
+	"6FBB4B27569D135AF51C8B7D9CB18CC47F8FE80C": {
+		"Address": "6FBB4B27569D135AF51C8B7D9CB18CC47F8FE80C",
+		"AccAddress": "uptick1lngjsefg92rpyjk9860wnm6mspkz9x2g582rym",
+		"Jailed": false,
+		"times": "536056",
+		"SurRate": "93.92"
+	},
+	"709458445FBFE7CA802B7941BE536E32A3BD285E": {
+		"Address": "709458445FBFE7CA802B7941BE536E32A3BD285E",
+		"AccAddress": "uptick1864unaatp3qu60n6ug7xalp5ejjnrkytyxhapl",
+		"Jailed": false,
+		"times": "569966",
+		"SurRate": "99.86"
+	},
+	"71B3216A8FAD311F05BB25104537588B8AB928EF": {
+		"Address": "71B3216A8FAD311F05BB25104537588B8AB928EF",
+		"AccAddress": "uptick14vnpz8k6cvequ6rute8umcg0ypk6pm662r8eye",
+		"Jailed": true,
+		"times": "12674",
+		"SurRate": "2.22"
+	},
+	"72E52ECFA5BEC36F95AAC7C4B4E853837C4031F1": {
+		"Address": "72E52ECFA5BEC36F95AAC7C4B4E853837C4031F1",
+		"AccAddress": "uptick1t8fdqvsnyvrp06fsmujp8sjtzn8glah7zkec4u",
+		"Jailed": false,
+		"times": "4372",
+		"SurRate": "0.77"
+	},
+	"736CC51E0E92975C0E2CAFEA2CA1FD1A6510E97B": {
+		"Address": "736CC51E0E92975C0E2CAFEA2CA1FD1A6510E97B",
+		"AccAddress": "uptick1zeu9vag3jfssqqflyskcxteaz0fmnzla0mtzu2",
+		"Jailed": true,
+		"times": "182985",
+		"SurRate": "32.06"
+	},
+	"774D68C43FFCB0264CA98731158983B97911B194": {
+		"Address": "774D68C43FFCB0264CA98731158983B97911B194",
+		"AccAddress": "uptick1xcjzqakym7hs8yqljwml8k5fzw6jujq6g7a465",
+		"Jailed": true,
+		"times": "481730",
+		"SurRate": "84.40"
+	},
+	"77B3E261EC7A8DDEE7CC615214D7790412429199": {
+		"Address": "77B3E261EC7A8DDEE7CC615214D7790412429199",
+		"AccAddress": "uptick16j09rmlyy5cfl37klu7w2dhsm98nxsqctk8nwl",
+		"Jailed": false,
+		"times": "532365",
+		"SurRate": "93.28"
+	},
+	"79AE339062C5C474B76A09262120EC1B66136991": {
+		"Address": "79AE339062C5C474B76A09262120EC1B66136991",
+		"AccAddress": "uptick1sk9ue8d25wh7mcv6prvr86ulqfazz2kh5ekgfq",
+		"Jailed": true,
+		"times": "523110",
+		"SurRate": "91.65"
+	},
+	"7C81EEE36F4963ECCC12CAEE5322A0B1D7C37693": {
+		"Address": "7C81EEE36F4963ECCC12CAEE5322A0B1D7C37693",
+		"AccAddress": "uptick12zssxw0m5p579klgyq4504e3vce6w5rgwpsfgg",
+		"Jailed": false,
+		"times": "291384",
+		"SurRate": "51.05"
+	},
+	"7C8A077895DA3FE8CA122E52F6EDB88B48602760": {
+		"Address": "7C8A077895DA3FE8CA122E52F6EDB88B48602760",
+		"AccAddress": "uptick1fcst04rpldfyhfuupfzu5j8ucy354hfcr5h8wf",
+		"Jailed": false,
+		"times": "570193",
+		"SurRate": "99.90"
+	},
+	"7CB46B9A597FDD64340F98EE270EE4A8BCACC00E": {
+		"Address": "7CB46B9A597FDD64340F98EE270EE4A8BCACC00E",
+		"AccAddress": "uptick14g7yxyzd5m6k2sfgnh8u7ncfzggcrjd5e9k3qw",
+		"Jailed": false,
+		"times": "14119",
+		"SurRate": "2.47"
+	},
+	"81A82EE975B225B88003245320A0960EBBE5604F": {
+		"Address": "81A82EE975B225B88003245320A0960EBBE5604F",
+		"AccAddress": "uptick1jqpaf0vgzlxvjx5meq8huweuv2nguqe2ugvd9v",
+		"Jailed": false,
+		"times": "378696",
+		"SurRate": "66.35"
+	},
+	"81BC10C7580485CF78B0F6A09DF17358714EC62D": {
+		"Address": "81BC10C7580485CF78B0F6A09DF17358714EC62D",
+		"AccAddress": "uptick1gxpwmys5ly25l9wayn3ueq4unmwf6xxm8tp09a",
+		"Jailed": false,
+		"times": "569753",
+		"SurRate": "99.83"
+	},
+	"825FC7B4B3795698406D670C38C5295BA4E71E49": {
+		"Address": "825FC7B4B3795698406D670C38C5295BA4E71E49",
+		"AccAddress": "uptick1u0pwd7jgzr0run6u7633pg7wg0027cu3m2x4cc",
+		"Jailed": false,
+		"times": "169731",
+		"SurRate": "29.74"
+	},
+	"8371E341A70F06C14236131F82F5C0D590D0C476": {
+		"Address": "8371E341A70F06C14236131F82F5C0D590D0C476",
+		"AccAddress": "uptick10cc8a6jjq8t62fpesyl3l6t5v28nv6ydv99r0n",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"8498F2C1A10A45E9105921E3DAE8B3C3B1AF34BE": {
+		"Address": "8498F2C1A10A45E9105921E3DAE8B3C3B1AF34BE",
+		"AccAddress": "uptick14wg357cfddp43m5y8pn099t4l240jggtn08cyy",
+		"Jailed": false,
+		"times": "282020",
+		"SurRate": "49.41"
+	},
+	"855F3F899A2B792A03C0FC047EBC71BD6A06EC2F": {
+		"Address": "855F3F899A2B792A03C0FC047EBC71BD6A06EC2F",
+		"AccAddress": "uptick1q07p0j42vdsqx5d25jmnd68z4yqcs2f3d94u74",
+		"Jailed": false,
+		"times": "8002",
+		"SurRate": "1.40"
+	},
+	"85B84FDE0D210E75D1D517704CB1FD9CFD51617C": {
+		"Address": "85B84FDE0D210E75D1D517704CB1FD9CFD51617C",
+		"AccAddress": "uptick1archxgtp89t4hvhjl9nsnkpvacacg0q29ec7l0",
+		"Jailed": false,
+		"times": "124156",
+		"SurRate": "21.75"
+	},
+	"881EE62A3D8629A377F880FE2A3C131FA6D9E9FB": {
+		"Address": "881EE62A3D8629A377F880FE2A3C131FA6D9E9FB",
+		"AccAddress": "uptick1rxhgnv5gp0dsl6rq0zaj6s3xzd6qxwckvu5qe6",
+		"Jailed": true,
+		"times": "417184",
+		"SurRate": "73.09"
+	},
+	"8901536374E4CD8E47347EC6D7E28D394200FC06": {
+		"Address": "8901536374E4CD8E47347EC6D7E28D394200FC06",
+		"AccAddress": "uptick1vu4d9wpm8srrlwlwfacw2du3mkl400eeg4w9hl",
+		"Jailed": true,
+		"times": "459159",
+		"SurRate": "80.45"
+	},
+	"89E3BFD68037571F743143462EEF47F1A32D74E8": {
+		"Address": "89E3BFD68037571F743143462EEF47F1A32D74E8",
+		"AccAddress": "uptick1vfejazaerzdkgvwcerhcgrdsffx7ul9haugl8d",
+		"Jailed": false,
+		"times": "570319",
+		"SurRate": "99.93"
+	},
+	"8A522DADFA216BAF8D6838F461BAD253CFC2281F": {
+		"Address": "8A522DADFA216BAF8D6838F461BAD253CFC2281F",
+		"AccAddress": "uptick10xafhwlzaxm4grwfwcmnr7g5ty07xva0geakcv",
+		"Jailed": false,
+		"times": "563260",
+		"SurRate": "98.69"
+	},
+	"8B73E0D87503E9F93F65E78082EDEA4396897E86": {
+		"Address": "8B73E0D87503E9F93F65E78082EDEA4396897E86",
+		"AccAddress": "uptick14qk6fylt98q4j0sg3fkeqwp7yl8z7sqv6a6m5c",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"8BF5953C241A0B967B468889153E074A22E5AE4E": {
+		"Address": "8BF5953C241A0B967B468889153E074A22E5AE4E",
+		"AccAddress": "uptick1jkdcc7v0fzyw024cx628f4areym3ycq40me7zj",
+		"Jailed": false,
+		"times": "570707",
+		"SurRate": "99.99"
+	},
+	"8CDA398D7D3364636669A7C1084080CC6F95ED5E": {
+		"Address": "8CDA398D7D3364636669A7C1084080CC6F95ED5E",
+		"AccAddress": "uptick1h4su8r6p4thurv783k78q4mgfuymx78a35sede",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"8D0D0E3A4BEF5100316D4B16A4C4E993653C9193": {
+		"Address": "8D0D0E3A4BEF5100316D4B16A4C4E993653C9193",
+		"AccAddress": "uptick173kh56c465uelapvzhf05cmgvt0kgys2r023qj",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"8D4EE07B8449F942EDD3BA0FFCE5047BF84C8060": {
+		"Address": "8D4EE07B8449F942EDD3BA0FFCE5047BF84C8060",
+		"AccAddress": "uptick1jtrrhm4j86vdypj6ptakmtafy9wvrwkumlc7an",
+		"Jailed": true,
+		"times": "398469",
+		"SurRate": "69.82"
+	},
+	"8DA954DE55801DEDB73D389E75870896BDB4C42B": {
+		"Address": "8DA954DE55801DEDB73D389E75870896BDB4C42B",
+		"AccAddress": "uptick1tnzaf802h6mnnd65mrhsjetlw8ph3jwm6rzj49",
+		"Jailed": true,
+		"times": "13640",
+		"SurRate": "2.39"
+	},
+	"8F5059E43405AC3014D71929989DFBD82A2B6C28": {
+		"Address": "8F5059E43405AC3014D71929989DFBD82A2B6C28",
+		"AccAddress": "uptick16jksah7dkj5yxfps677962wlld0555mapy64p4",
+		"Jailed": false,
+		"times": "11187",
+		"SurRate": "1.96"
+	},
+	"90F9BA2C01ADE5F512ED57E0F8DDDCA7C5F9773E": {
+		"Address": "90F9BA2C01ADE5F512ED57E0F8DDDCA7C5F9773E",
+		"AccAddress": "uptick1283kp34jq30clxscnqg9gyymgwvgzr99re3wlc",
+		"Jailed": false,
+		"times": "546849",
+		"SurRate": "95.81"
+	},
+	"91E518FB4CF6CB199BD63048670A32653D93CB64": {
+		"Address": "91E518FB4CF6CB199BD63048670A32653D93CB64",
+		"AccAddress": "uptick1fl3426k0avvergm7ejzczqy6rfzxk5makfw5z7",
+		"Jailed": true,
+		"times": "293614",
+		"SurRate": "51.44"
+	},
+	"921D7FE1AC8FD8B106A8D8976877564C7FFBEFD5": {
+		"Address": "921D7FE1AC8FD8B106A8D8976877564C7FFBEFD5",
+		"AccAddress": "uptick1tt4jxd9qqkqrfl800qt43mud78mefz56p2em5d",
+		"Jailed": false,
+		"times": "9162",
+		"SurRate": "1.61"
+	},
+	"92CAE848AEF7A2F55F21355616C6747B6FD1BBC3": {
+		"Address": "92CAE848AEF7A2F55F21355616C6747B6FD1BBC3",
+		"AccAddress": "uptick1unpentgmpkzj94yhttyq0f8kcana83z8tcyh6v",
+		"Jailed": true,
+		"times": "269969",
+		"SurRate": "47.30"
+	},
+	"93BE6D524BE9C7FAE6DAF4D2D934A9E6D3BE1DB8": {
+		"Address": "93BE6D524BE9C7FAE6DAF4D2D934A9E6D3BE1DB8",
+		"AccAddress": "uptick1p5g322r3szeneact8uklyqg3yzcfh9pr2hu350",
+		"Jailed": false,
+		"times": "109242",
+		"SurRate": "19.14"
+	},
+	"952139CA94C160C74DABB5CFBBF8DF2335C8FBC4": {
+		"Address": "952139CA94C160C74DABB5CFBBF8DF2335C8FBC4",
+		"AccAddress": "uptick1nkj4sgwqwyhlm7rsp8c4kznxqpxfnjtgpmrfkk",
+		"Jailed": true,
+		"times": "477616",
+		"SurRate": "83.68"
+	},
+	"953E962580ECE32930FEFE9D167FA64C0D09230F": {
+		"Address": "953E962580ECE32930FEFE9D167FA64C0D09230F",
+		"AccAddress": "uptick1uhqjmqqqrg0z3admztpax4rr895w8mrskjsex3",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"95A66B04549A1A76ECE5E0E8FF095E5FCFA98522": {
+		"Address": "95A66B04549A1A76ECE5E0E8FF095E5FCFA98522",
+		"AccAddress": "uptick1r49j7lwk60h0zvt08w2gmay075gtvl844fx2vw",
+		"Jailed": false,
+		"times": "565898",
+		"SurRate": "99.15"
+	},
+	"96DA3B207362DF53AE9FA9BB3AE95641326B80A3": {
+		"Address": "96DA3B207362DF53AE9FA9BB3AE95641326B80A3",
+		"AccAddress": "uptick1pwjt96saucysrnwqnzng853g4v2hn6d85x2udy",
+		"Jailed": false,
+		"times": "569230",
+		"SurRate": "99.73"
+	},
+	"9750C9DFF4A4D83C9969BCF2B8D72E0FDAB4149C": {
+		"Address": "9750C9DFF4A4D83C9969BCF2B8D72E0FDAB4149C",
+		"AccAddress": "uptick1r2ydd3mynn6z0dq3jjqwh7clfsjty6wdukdaxt",
+		"Jailed": true,
+		"times": "439948",
+		"SurRate": "77.08"
+	},
+	"9883EEF1683BD99FDA597EE6D6388AD55D6151AA": {
+		"Address": "9883EEF1683BD99FDA597EE6D6388AD55D6151AA",
+		"AccAddress": "uptick1tumetlwnl7g6sdpycdy3yjl05fc6n0rfzpfhy7",
+		"Jailed": true,
+		"times": "141415",
+		"SurRate": "24.78"
+	},
+	"998E119496BE96977D23C9BA46579842650ABC54": {
+		"Address": "998E119496BE96977D23C9BA46579842650ABC54",
+		"AccAddress": "uptick183s6er7che05vgm2ap8jn3gmcdy90t2zq0czkk",
+		"Jailed": false,
+		"times": "533037",
+		"SurRate": "93.39"
+	},
+	"9B83AD736DD141F4C6A82D61C2FC7CFD09585BE6": {
+		"Address": "9B83AD736DD141F4C6A82D61C2FC7CFD09585BE6",
+		"AccAddress": "uptick10m5cfmg402hy6l0mzxs5ketzh2zygpumfqq702",
+		"Jailed": false,
+		"times": "543018",
+		"SurRate": "95.14"
+	},
+	"9BCAA1F577D1ABD26BBE3C3CBBDC94429612AC04": {
+		"Address": "9BCAA1F577D1ABD26BBE3C3CBBDC94429612AC04",
+		"AccAddress": "uptick1rkcg5der8lq94vye9t98033yqa4auszg592m9z",
+		"Jailed": false,
+		"times": "557998",
+		"SurRate": "97.77"
+	},
+	"9D05606CC9E7319916303EEDCEF366D7B12E176A": {
+		"Address": "9D05606CC9E7319916303EEDCEF366D7B12E176A",
+		"AccAddress": "uptick1pq7cwgulwesuqdqwx8nqlnfe7da85nle6qs5fj",
+		"Jailed": false,
+		"times": "361734",
+		"SurRate": "63.38"
+	},
+	"9DFF1D218B8BBEEEE55368F424A3214A3FB10E28": {
+		"Address": "9DFF1D218B8BBEEEE55368F424A3214A3FB10E28",
+		"AccAddress": "uptick1ey79dzr2k5y40mm44503m3xe9tn899x78e30v0",
+		"Jailed": false,
+		"times": "234722",
+		"SurRate": "41.13"
+	},
+	"9E7FFBFA8BDD99ADF4E6C72AFCACD001652E7E91": {
+		"Address": "9E7FFBFA8BDD99ADF4E6C72AFCACD001652E7E91",
+		"AccAddress": "uptick162euqezsx4unue2e2ckzc8jas2mg2h7l6jl623",
+		"Jailed": true,
+		"times": "53485",
+		"SurRate": "9.37"
+	},
+	"9EA4D84EA27333AD36A598B41FBF5D30AB08B04B": {
+		"Address": "9EA4D84EA27333AD36A598B41FBF5D30AB08B04B",
+		"AccAddress": "uptick19q7hpfx9a88vdalk5evezkxfnxfm9uss4dwxs9",
+		"Jailed": false,
+		"times": "566341",
+		"SurRate": "99.23"
+	},
+	"9F99F34C66735D4C56427B6032CC5F170C39E8A9": {
+		"Address": "9F99F34C66735D4C56427B6032CC5F170C39E8A9",
+		"AccAddress": "uptick1qc9lxsxdx88javmqk7h7t5pf3lu3raz55087ct",
+		"Jailed": false,
+		"times": "8211",
+		"SurRate": "1.44"
+	},
+	"A05730F589369C41D521CA59C00131535BD23EE3": {
+		"Address": "A05730F589369C41D521CA59C00131535BD23EE3",
+		"AccAddress": "uptick1y8tetn96esn8eks2hhzwzcemd3lvga5xg0n0vr",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"A22CA43941D407396625E8513420CA516D12CFA5": {
+		"Address": "A22CA43941D407396625E8513420CA516D12CFA5",
+		"AccAddress": "uptick1g9qle0zayz3mjnel3f9du7wdrddclh4hxnwcal",
+		"Jailed": false,
+		"times": "569514",
+		"SurRate": "99.78"
+	},
+	"A3C7A29E7F83A9765698EF3F285369510B534E38": {
+		"Address": "A3C7A29E7F83A9765698EF3F285369510B534E38",
+		"AccAddress": "uptick1p9l593vnt9xl779atr2dt8nm5lg4zra78k6mr9",
+		"Jailed": false,
+		"times": "124741",
+		"SurRate": "21.86"
+	},
+	"A4BB20E5D471E46562F7BE982F3E70795DC8C9B7": {
+		"Address": "A4BB20E5D471E46562F7BE982F3E70795DC8C9B7",
+		"AccAddress": "uptick1hu879wtavjywlku88fj6qymhmuvgypjmzpuqqm",
+		"Jailed": false,
+		"times": "533738",
+		"SurRate": "93.52"
+	},
+	"A4E33AE1949DAD69EC064DF6A18336F74317F241": {
+		"Address": "A4E33AE1949DAD69EC064DF6A18336F74317F241",
+		"AccAddress": "uptick153q0zjy3upc2ue3hcdhxdyarzktftlzv3pcu5k",
+		"Jailed": true,
+		"times": "113468",
+		"SurRate": "19.88"
+	},
+	"A636F7EBE524661040709A987D707EE8A2F82C78": {
+		"Address": "A636F7EBE524661040709A987D707EE8A2F82C78",
+		"AccAddress": "uptick1efwlrd92tnv3zq8eq0vxvmwe4zc4lex2ygjk0a",
+		"Jailed": true,
+		"times": "444465",
+		"SurRate": "77.87"
+	},
+	"A7238F6C6B3BB6C0993703B469A258B15ADDC186": {
+		"Address": "A7238F6C6B3BB6C0993703B469A258B15ADDC186",
+		"AccAddress": "uptick1he9fj34sjhypxzejazmcd6zm20sfq89kdsn8j4",
+		"Jailed": true,
+		"times": "9124",
+		"SurRate": "1.60"
+	},
+	"A72B91B092362DEA286C0285AD19D2257EB4A544": {
+		"Address": "A72B91B092362DEA286C0285AD19D2257EB4A544",
+		"AccAddress": "uptick1q5t0zghhs7j9jyk2gm7wrupfv0d3sptudyrlvq",
+		"Jailed": false,
+		"times": "546338",
+		"SurRate": "95.72"
+	},
+	"A7FF90E14F2E01D2B09554221AA3D7D12D7383DA": {
+		"Address": "A7FF90E14F2E01D2B09554221AA3D7D12D7383DA",
+		"AccAddress": "uptick19yk28u3tmln8sklj2nn80sdyp464ddlylschec",
+		"Jailed": false,
+		"times": "564452",
+		"SurRate": "98.90"
+	},
+	"A90971D0F43F81B7ABF2EB4AB9BCB3477F81839F": {
+		"Address": "A90971D0F43F81B7ABF2EB4AB9BCB3477F81839F",
+		"AccAddress": "uptick1dmpryuam66yfnwglxx2zwdcsv87cn09spg6le9",
+		"Jailed": false,
+		"times": "567651",
+		"SurRate": "99.46"
+	},
+	"A9A1313586DBA2A921620C472CE832BA7BDCCED4": {
+		"Address": "A9A1313586DBA2A921620C472CE832BA7BDCCED4",
+		"AccAddress": "uptick1l65mc7f9l8hkwc46mkcyfyefzfgclummfsunh5",
+		"Jailed": false,
+		"times": "10723",
+		"SurRate": "1.88"
+	},
+	"A9BFE6689419D63AC316AFA21D2B5CFAF40B95BD": {
+		"Address": "A9BFE6689419D63AC316AFA21D2B5CFAF40B95BD",
+		"AccAddress": "uptick1tttxn8h4rvl6a9y36wa8yz4wkf0jmuls7z5ajs",
+		"Jailed": true,
+		"times": "649",
+		"SurRate": "0.11"
+	},
+	"AB2D9CD657D8DA563938C7CA345206CCD0047D73": {
+		"Address": "AB2D9CD657D8DA563938C7CA345206CCD0047D73",
+		"AccAddress": "uptick1xpltcf6df3j2a5knykgt0rdf2jwt73634xsaxs",
+		"Jailed": false,
+		"times": "532867",
+		"SurRate": "93.36"
+	},
+	"AB9A9C471FAD8F25C8ECAC63401E208E7F3F10E4": {
+		"Address": "AB9A9C471FAD8F25C8ECAC63401E208E7F3F10E4",
+		"AccAddress": "uptick1c6cut2p5fduu2pwalpl3ycjtvqgfam7h9mn4wz",
+		"Jailed": false,
+		"times": "170216",
+		"SurRate": "29.82"
+	},
+	"ABBA058C7BE149943D4A15D7FD2D88916CD3853C": {
+		"Address": "ABBA058C7BE149943D4A15D7FD2D88916CD3853C",
+		"AccAddress": "uptick1el80wdlm9esaqltwzxga3xmxnke4atuzxjhdxq",
+		"Jailed": false,
+		"times": "108768",
+		"SurRate": "19.06"
+	},
+	"ABDDE2F1C164A61509A1A4D8C228F2D9EAC2EBA0": {
+		"Address": "ABDDE2F1C164A61509A1A4D8C228F2D9EAC2EBA0",
+		"AccAddress": "uptick1luz4z4zlvzmkecy3v2stahvcekqqggquhux7dc",
+		"Jailed": true,
+		"times": "278724",
+		"SurRate": "48.83"
+	},
+	"ABDDFCC21F99F29798CB9B45FB100843E48994EF": {
+		"Address": "ABDDFCC21F99F29798CB9B45FB100843E48994EF",
+		"AccAddress": "uptick164dkcfxy8ac509p866ntedjy0ruxadvu44nhem",
+		"Jailed": true,
+		"times": "200014",
+		"SurRate": "35.04"
+	},
+	"ACC8985EC779E3DE9CD2C98A17AF33E4E811B90D": {
+		"Address": "ACC8985EC779E3DE9CD2C98A17AF33E4E811B90D",
+		"AccAddress": "uptick1lprr6f0utpuzvh7wkqrnjl3zuc5jzt5ewff3kt",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"AD5BEEFB7DE6471EBC6816F171BA2BBD769BCE22": {
+		"Address": "AD5BEEFB7DE6471EBC6816F171BA2BBD769BCE22",
+		"AccAddress": "uptick1qhq72kq8a8zumtxzuctunphzd4l8kww2efymr2",
+		"Jailed": false,
+		"times": "72086",
+		"SurRate": "12.63"
+	},
+	"AD68759F56E0EDE25FD3AE77006A38D41EBC3FBB": {
+		"Address": "AD68759F56E0EDE25FD3AE77006A38D41EBC3FBB",
+		"AccAddress": "uptick15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4sp7m7u",
+		"Jailed": false,
+		"times": "416393",
+		"SurRate": "72.96"
+	},
+	"AE2DDFECC687969C6CEC8A251F4B3C82F82AB853": {
+		"Address": "AE2DDFECC687969C6CEC8A251F4B3C82F82AB853",
+		"AccAddress": "uptick1wu75q4v88srccawjht6hsgwfs36lgg65a3nskq",
+		"Jailed": true,
+		"times": "58767",
+		"SurRate": "10.30"
+	},
+	"AF631FB9D61EE46758587D80714F31EC4E8D44E6": {
+		"Address": "AF631FB9D61EE46758587D80714F31EC4E8D44E6",
+		"AccAddress": "uptick1ug3qfhy9h82tdu80crkh8d5dpv5kg4rttwq87g",
+		"Jailed": false,
+		"times": "569135",
+		"SurRate": "99.72"
+	},
+	"AFB69B797E71C2E26C0D652D9F24A1B320D0E5BB": {
+		"Address": "AFB69B797E71C2E26C0D652D9F24A1B320D0E5BB",
+		"AccAddress": "uptick1fq5mhrm8l4k7uhm0ts0yq2e73dl5pfdc3g5e6j",
+		"Jailed": false,
+		"times": "20254",
+		"SurRate": "3.55"
+	},
+	"AFCF139B0BAC388AF12071AB5988076A50438689": {
+		"Address": "AFCF139B0BAC388AF12071AB5988076A50438689",
+		"AccAddress": "uptick1shg2utd4r6jnleefnmfl3kcdjvsjpf8qngauga",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"B09D8421D45EFF9FD80C42E672B09CD6D3760C0E": {
+		"Address": "B09D8421D45EFF9FD80C42E672B09CD6D3760C0E",
+		"AccAddress": "uptick16pk23ymyxl6njqcpq526lgmfhjsr7u6f7lxtea",
+		"Jailed": true,
+		"times": "408409",
+		"SurRate": "71.56"
+	},
+	"B0A6C60CD4DB9B9F62829DAEE403928338BBD22D": {
+		"Address": "B0A6C60CD4DB9B9F62829DAEE403928338BBD22D",
+		"AccAddress": "uptick15lxcs6dwug5v8np2dyknmyvwml5v85rqu90xw2",
+		"Jailed": true,
+		"times": "458899",
+		"SurRate": "80.40"
+	},
+	"B12C65A0C5FAAF6B88A00182D3F5BD82B7BBF8CE": {
+		"Address": "B12C65A0C5FAAF6B88A00182D3F5BD82B7BBF8CE",
+		"AccAddress": "uptick1fx6xqck8aw6f4w32smccu0nc2hjnulmknl3rcc",
+		"Jailed": false,
+		"times": "62198",
+		"SurRate": "10.90"
+	},
+	"B253B4B24CAFA93431904CEF9DD9690A572EA792": {
+		"Address": "B253B4B24CAFA93431904CEF9DD9690A572EA792",
+		"AccAddress": "uptick129fjraukdmxdhly4g9psjzglq5pn2xrnyucnv9",
+		"Jailed": true,
+		"times": "932",
+		"SurRate": "0.16"
+	},
+	"B2E3D00CF0A83D0DC433421B5999A66B926F1DA5": {
+		"Address": "B2E3D00CF0A83D0DC433421B5999A66B926F1DA5",
+		"AccAddress": "uptick1eqfe0xmh7lgynlvnpwr4tturc2g222mjh5lhjv",
+		"Jailed": false,
+		"times": "515799",
+		"SurRate": "90.37"
+	},
+	"B62AB799B56AC6B028599AC415571FD4D031031A": {
+		"Address": "B62AB799B56AC6B028599AC415571FD4D031031A",
+		"AccAddress": "uptick1h3cltqvxttn8707kk62v42cnj7gnxg2zyszze9",
+		"Jailed": false,
+		"times": "565482",
+		"SurRate": "99.08"
+	},
+	"B68AB6FBC8CF6711AE68BE88F60C425BBE150439": {
+		"Address": "B68AB6FBC8CF6711AE68BE88F60C425BBE150439",
+		"AccAddress": "uptick1wa7dgsw0w8gxxymg6tuclpnww77e4wf9qdq6cm",
+		"Jailed": true,
+		"times": "478873",
+		"SurRate": "83.90"
+	},
+	"B72E16A589D88794C5FE9E149512B2FC0DFDFB01": {
+		"Address": "B72E16A589D88794C5FE9E149512B2FC0DFDFB01",
+		"AccAddress": "uptick12ty0pkhpk5ums9u5shf9u0juklchy2lzca4paj",
+		"Jailed": false,
+		"times": "58160",
+		"SurRate": "10.19"
+	},
+	"B7D38FC166B347FEA6864F8A93D97FCB76C47B10": {
+		"Address": "B7D38FC166B347FEA6864F8A93D97FCB76C47B10",
+		"AccAddress": "uptick1xk0zpxmxjgt27ujw50g79c4kzxdpx2pgu4u266",
+		"Jailed": true,
+		"times": "106125",
+		"SurRate": "18.59"
+	},
+	"B7F06CFFA7AF95F7427AFD6BD99A57AE2D401B40": {
+		"Address": "B7F06CFFA7AF95F7427AFD6BD99A57AE2D401B40",
+		"AccAddress": "uptick1ares8y9lsnceypk3xrrrpv24qszkqsa6jmq30j",
+		"Jailed": true,
+		"times": "4038",
+		"SurRate": "0.71"
+	},
+	"B8A64E8F3398C7552E846BB2F193C5A7ADF641BD": {
+		"Address": "B8A64E8F3398C7552E846BB2F193C5A7ADF641BD",
+		"AccAddress": "uptick1khazu8sn4ldsfs28h22fk7tecdq24cfuk849hn",
+		"Jailed": false,
+		"times": "521757",
+		"SurRate": "91.42"
+	},
+	"BAC4EDE01AF6AB9ED8A1374B808C5F630649BD1A": {
+		"Address": "BAC4EDE01AF6AB9ED8A1374B808C5F630649BD1A",
+		"AccAddress": "uptick1q4vdlk6ty7g04nylnnqdws8dffxtyns4vafaf8",
+		"Jailed": false,
+		"times": "558500",
+		"SurRate": "97.85"
+	},
+	"BCB767D7200B8ADF1830D85E3C8D8B659EA3B400": {
+		"Address": "BCB767D7200B8ADF1830D85E3C8D8B659EA3B400",
+		"AccAddress": "uptick1tanxrzy4r76hjv7auyqlyksrr3s75v67mv8jvt",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"BD50963623559E1B300A46AAE0CECB7FE6A6321D": {
+		"Address": "BD50963623559E1B300A46AAE0CECB7FE6A6321D",
+		"AccAddress": "uptick1sfnu95ehxlaldtnxp4xq745xaxjkc3ka32pg0v",
+		"Jailed": true,
+		"times": "15786",
+		"SurRate": "2.77"
+	},
+	"BD83D1ED27C98513377140B7F4CBA4D8C123AED4": {
+		"Address": "BD83D1ED27C98513377140B7F4CBA4D8C123AED4",
+		"AccAddress": "uptick1055jwyf0nqxkdf73m4auw9ksue7gee8ase49ym",
+		"Jailed": false,
+		"times": "542772",
+		"SurRate": "95.10"
+	},
+	"BE7D1DDB961EC691588D4DB51615E68A0DA1A4A1": {
+		"Address": "BE7D1DDB961EC691588D4DB51615E68A0DA1A4A1",
+		"AccAddress": "uptick1h5zltlppec32gunys0s99js5rvxdce89pgy9nd",
+		"Jailed": true,
+		"times": "234706",
+		"SurRate": "41.12"
+	},
+	"BFEF3378644C935EC281BCFE252F34EF809B4AE1": {
+		"Address": "BFEF3378644C935EC281BCFE252F34EF809B4AE1",
+		"AccAddress": "uptick159kqv4gpdahdhzew7d8jmyjgzsuym8fv9z8c32",
+		"Jailed": false,
+		"times": "566332",
+		"SurRate": "99.23"
+	},
+	"C050A79570A874CCD20AB7CFE27D954528D5471C": {
+		"Address": "C050A79570A874CCD20AB7CFE27D954528D5471C",
+		"AccAddress": "uptick12y3cc7aaqapnn3rdhsey79hdztnzdfwed5556p",
+		"Jailed": false,
+		"times": "536751",
+		"SurRate": "94.04"
+	},
+	"C11B41F97B106C816BA415B6B05E4D25E7955B24": {
+		"Address": "C11B41F97B106C816BA415B6B05E4D25E7955B24",
+		"AccAddress": "uptick1jppm7mse2nyx684644yf8prnhz2tztrrszf6gz",
+		"Jailed": true,
+		"times": "34761",
+		"SurRate": "6.09"
+	},
+	"C23DD486B3876FFE7E8AB804FBDF937841862F52": {
+		"Address": "C23DD486B3876FFE7E8AB804FBDF937841862F52",
+		"AccAddress": "uptick1q72hscxxwt7983zw0gqcmd5m92nzhx2uv4h434",
+		"Jailed": true,
+		"times": "282937",
+		"SurRate": "49.57"
+	},
+	"C2560B752E768AA05B9B47D9C8B06BC8BC082A1A": {
+		"Address": "C2560B752E768AA05B9B47D9C8B06BC8BC082A1A",
+		"AccAddress": "uptick10jntfz55x48urpyvsnksz98pfwstg7l8sw80w4",
+		"Jailed": false,
+		"times": "564194",
+		"SurRate": "98.85"
+	},
+	"C2F26AE6D8C79423C1763EA1438D4F9E86771258": {
+		"Address": "C2F26AE6D8C79423C1763EA1438D4F9E86771258",
+		"AccAddress": "uptick1s5x8g56hdfw7h8x896h00e9wvj77779v45katv",
+		"Jailed": false,
+		"times": "560845",
+		"SurRate": "98.27"
+	},
+	"C4375FF7778430806B4B6297C57D2DB7282C7CDC": {
+		"Address": "C4375FF7778430806B4B6297C57D2DB7282C7CDC",
+		"AccAddress": "uptick1w3aec4uzadk2ckvetalt5c963hmmcpag4rngrr",
+		"Jailed": false,
+		"times": "14107",
+		"SurRate": "2.47"
+	},
+	"C44002659AB87323339C27B7488F91BA646117D1": {
+		"Address": "C44002659AB87323339C27B7488F91BA646117D1",
+		"AccAddress": "uptick10gwpvs9335n68842fvt8zhhly9z7usswqzt4mx",
+		"Jailed": true,
+		"times": "326529",
+		"SurRate": "57.21"
+	},
+	"C4F2ECA3E8693D048DFC2B4FBAC0BAF8E374E935": {
+		"Address": "C4F2ECA3E8693D048DFC2B4FBAC0BAF8E374E935",
+		"AccAddress": "uptick17rg7lawpngkwu8v3e9n7xp93gnp25qduueg2ll",
+		"Jailed": true,
+		"times": "535463",
+		"SurRate": "93.82"
+	},
+	"C5E8C05312DF63C882D43602F1938790A225155C": {
+		"Address": "C5E8C05312DF63C882D43602F1938790A225155C",
+		"AccAddress": "uptick1gvqj9wjphjftvx2xl56cugqqpl6x2kzcxhttsq",
+		"Jailed": false,
+		"times": "500810",
+		"SurRate": "87.75"
+	},
+	"C5FFC9AF808AD45B10FB2B1DEEAB2DCFD74E2A01": {
+		"Address": "C5FFC9AF808AD45B10FB2B1DEEAB2DCFD74E2A01",
+		"AccAddress": "uptick18t3gwsk53ea06nta3nl6y3chlnk7mu07m8ncv8",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"C66C7A408548C936F6C6555B40CCBA740BCABBAE": {
+		"Address": "C66C7A408548C936F6C6555B40CCBA740BCABBAE",
+		"AccAddress": "uptick1gkcv3uwu4gqqdmm2tcyvrf4hghdynr4ugutnes",
+		"Jailed": true,
+		"times": "54508",
+		"SurRate": "9.55"
+	},
+	"C728CDC349A8E6D39DC04072206F5D019E3D5FB8": {
+		"Address": "C728CDC349A8E6D39DC04072206F5D019E3D5FB8",
+		"AccAddress": "uptick1l9rk280jwjppgazl0ysrz5qgkq70ny7f542xn8",
+		"Jailed": true,
+		"times": "57676",
+		"SurRate": "10.11"
+	},
+	"C7EBFB87E1F0B2C1BE7053D6BFC7E6D43E019104": {
+		"Address": "C7EBFB87E1F0B2C1BE7053D6BFC7E6D43E019104",
+		"AccAddress": "uptick1c0ufdqdzz4q5n063az6hvp4pvkvpemgvh9z9uz",
+		"Jailed": true,
+		"times": "2886",
+		"SurRate": "0.51"
+	},
+	"C7F2DDFCE3DD3142F47C4A4B46ADDA1CE256B3EC": {
+		"Address": "C7F2DDFCE3DD3142F47C4A4B46ADDA1CE256B3EC",
+		"AccAddress": "uptick1wql2ucty6psgfyvn2x2778deetlmsydfrrrg2k",
+		"Jailed": false,
+		"times": "500890",
+		"SurRate": "87.76"
+	},
+	"C87A49500481019EE8893353F5A51910D37351C7": {
+		"Address": "C87A49500481019EE8893353F5A51910D37351C7",
+		"AccAddress": "uptick1t5msr8mzn2q4dgpml82xs243aw83c8uzs6g352",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"CA704B6E901B94154B7EF88854EF1816AC720691": {
+		"Address": "CA704B6E901B94154B7EF88854EF1816AC720691",
+		"AccAddress": "uptick18d9wndmldefhrnm3dhfewrw82pzx3cqqhag792",
+		"Jailed": false,
+		"times": "569622",
+		"SurRate": "99.80"
+	},
+	"CA7F8CE6B903F76D4A626421C6AE037E6805C24E": {
+		"Address": "CA7F8CE6B903F76D4A626421C6AE037E6805C24E",
+		"AccAddress": "uptick1yue647m9jrg45n2rztpf7alqf00g3he55qjlql",
+		"Jailed": false,
+		"times": "563274",
+		"SurRate": "98.69"
+	},
+	"CB70772142ABDF6097C61E4F37A4212DB4D6EF1E": {
+		"Address": "CB70772142ABDF6097C61E4F37A4212DB4D6EF1E",
+		"AccAddress": "uptick1ac9979cejpev75cydhxcr2wfm869txrsvagmt8",
+		"Jailed": true,
+		"times": "386295",
+		"SurRate": "67.68"
+	},
+	"CF2A59448D56CE3DB41CCA2D522288565EBE338A": {
+		"Address": "CF2A59448D56CE3DB41CCA2D522288565EBE338A",
+		"AccAddress": "uptick1xg2tt4yja6zwg5fx4pmx5xugrfelnqjtl9u7n6",
+		"Jailed": true,
+		"times": "225295",
+		"SurRate": "39.47"
+	},
+	"D010CB448A4D4CB3AA9D3F84582DC668792CAFF2": {
+		"Address": "D010CB448A4D4CB3AA9D3F84582DC668792CAFF2",
+		"AccAddress": "uptick1gt3adrlztf77evudyq2dfqs98srd6czjc2jphk",
+		"Jailed": false,
+		"times": "569654",
+		"SurRate": "99.81"
+	},
+	"D44334AAC17843BE360B89EDB7C148A678EA6CAD": {
+		"Address": "D44334AAC17843BE360B89EDB7C148A678EA6CAD",
+		"AccAddress": "uptick1c9ysyl66g4wmuzae2520ejaesa7snexjsh7fth",
+		"Jailed": true,
+		"times": "46207",
+		"SurRate": "8.10"
+	},
+	"D496652C47610F1D706A6D148D80AE1C72A60710": {
+		"Address": "D496652C47610F1D706A6D148D80AE1C72A60710",
+		"AccAddress": "uptick1f4lnewq60s5y02qzsq30ycc3c3f2w097l4jes9",
+		"Jailed": false,
+		"times": "109020",
+		"SurRate": "19.10"
+	},
+	"D5B18B8685FDD3EC21B5924035FB6935BCE0E0F3": {
+		"Address": "D5B18B8685FDD3EC21B5924035FB6935BCE0E0F3",
+		"AccAddress": "uptick1mkfdk6jrg3y29sfewzcef3nfymp7q9lxgq0v2e",
+		"Jailed": false,
+		"times": "566147",
+		"SurRate": "99.19"
+	},
+	"D6507D39237F00A633321F07622239E5BFCA47C3": {
+		"Address": "D6507D39237F00A633321F07622239E5BFCA47C3",
+		"AccAddress": "uptick1edvvlung8zle3tg9zcgc2wksx26x6ujm3qgknn",
+		"Jailed": true,
+		"times": "413034",
+		"SurRate": "72.37"
+	},
+	"D6B82BA140932639A38197762E8F3FB059B0FEBD": {
+		"Address": "D6B82BA140932639A38197762E8F3FB059B0FEBD",
+		"AccAddress": "uptick1zv6txq4u9drr6cse6nv8678uk3k9frze82tqav",
+		"Jailed": false,
+		"times": "536021",
+		"SurRate": "93.92"
+	},
+	"D72F73701179EBA89E64498796661F470FDFC001": {
+		"Address": "D72F73701179EBA89E64498796661F470FDFC001",
+		"AccAddress": "uptick1wrkf2v0xqfu0c58dmmc30x03ax9hu050fy24c0",
+		"Jailed": false,
+		"times": "218161",
+		"SurRate": "38.22"
+	},
+	"D99D243E49B19A1DECDEE2E75C5CB31ED1520E6F": {
+		"Address": "D99D243E49B19A1DECDEE2E75C5CB31ED1520E6F",
+		"AccAddress": "uptick15n0zeqdgrmz6plencnnfefhzn4828m3wwsrxzy",
+		"Jailed": true,
+		"times": "43475",
+		"SurRate": "7.62"
+	},
+	"DA4D3F4472796C111BC3094C65E58E1E7F763910": {
+		"Address": "DA4D3F4472796C111BC3094C65E58E1E7F763910",
+		"AccAddress": "uptick1huwzy486au05wgwxd6uhmygyzpxx5qlu042e6a",
+		"Jailed": true,
+		"times": "330362",
+		"SurRate": "57.88"
+	},
+	"DB7353F77CF88C3EBC21F69261A97E483D460E1F": {
+		"Address": "DB7353F77CF88C3EBC21F69261A97E483D460E1F",
+		"AccAddress": "uptick1yfjwhceh3lm5urw8t34g4xrz0pj8gwjtkg37p0",
+		"Jailed": false,
+		"times": "557452",
+		"SurRate": "97.67"
+	},
+	"DB84CD920B9CA96348DA47E3B0FDF27B8E874A8D": {
+		"Address": "DB84CD920B9CA96348DA47E3B0FDF27B8E874A8D",
+		"AccAddress": "uptick1vvrgvpgtftqxzvu6st24krx63xn6n24tq5v6an",
+		"Jailed": true,
+		"times": "16737",
+		"SurRate": "2.93"
+	},
+	"DCD18714C2E9147A66DC5465DDFD1E5DCE44858F": {
+		"Address": "DCD18714C2E9147A66DC5465DDFD1E5DCE44858F",
+		"AccAddress": "uptick19rskqhpxds5cdv3eeg5dy8997jpp93xp4cfyj5",
+		"Jailed": false,
+		"times": "372218",
+		"SurRate": "65.22"
+	},
+	"DE0A1BA1B552482CA3919D8009425E0169696E54": {
+		"Address": "DE0A1BA1B552482CA3919D8009425E0169696E54",
+		"AccAddress": "uptick1smf3qc3w76jxseuwtnse3lqgg2faa2a6p4nek7",
+		"Jailed": false,
+		"times": "4388",
+		"SurRate": "0.77"
+	},
+	"DF1AAB3A5D75128E428B47BBF649FFB585D81FC7": {
+		"Address": "DF1AAB3A5D75128E428B47BBF649FFB585D81FC7",
+		"AccAddress": "uptick19yc6urwlavyy7l8crddkn549y3vhdt3dkxv6pp",
+		"Jailed": true,
+		"times": "455918",
+		"SurRate": "79.88"
+	},
+	"DF768D55F58261B7EF1D91CA09F05D4465D5BC2B": {
+		"Address": "DF768D55F58261B7EF1D91CA09F05D4465D5BC2B",
+		"AccAddress": "uptick14wmqqf9reafncaa4etpp47jvxxqjyjcw30fy7c",
+		"Jailed": true,
+		"times": "381063",
+		"SurRate": "66.77"
+	},
+	"DF8A9716756E6112F49004A159AA5EC802667E95": {
+		"Address": "DF8A9716756E6112F49004A159AA5EC802667E95",
+		"AccAddress": "uptick1eddj4c9uh2l76llatzdtvmpdcq07lqdn2zfa5r",
+		"Jailed": false,
+		"times": "554443",
+		"SurRate": "97.14"
+	},
+	"E1202294B687A8A1B76413128EE53EDA3B3BBA3C": {
+		"Address": "E1202294B687A8A1B76413128EE53EDA3B3BBA3C",
+		"AccAddress": "uptick1gpu2t29nntx287a2yh2dxqrfczvjlpz402xfmd",
+		"Jailed": false,
+		"times": "29455",
+		"SurRate": "5.16"
+	},
+	"E1883B8CBE59225009DA14236BB035E07AB72A6A": {
+		"Address": "E1883B8CBE59225009DA14236BB035E07AB72A6A",
+		"AccAddress": "uptick1wx2rff0l6y4sfu68wwn8fet64wx5pyc60w5sa6",
+		"Jailed": false,
+		"times": "526358",
+		"SurRate": "92.22"
+	},
+	"E2617B9275D12ACC18A2D875013F538AFB5AE477": {
+		"Address": "E2617B9275D12ACC18A2D875013F538AFB5AE477",
+		"AccAddress": "uptick14z53dqlm3vw32ae28jf96z0ec2xegpwhjn6cut",
+		"Jailed": true,
+		"times": "10721",
+		"SurRate": "1.88"
+	},
+	"E304112C0411C5356E7641EEF8364F79D5CE7874": {
+		"Address": "E304112C0411C5356E7641EEF8364F79D5CE7874",
+		"AccAddress": "uptick1vaxuheh0em8txpl9eq2y2ypl6eew7aeyr6atc8",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"E333B87388CED37F7C00713A1F7E67D08FD2ED1C": {
+		"Address": "E333B87388CED37F7C00713A1F7E67D08FD2ED1C",
+		"AccAddress": "uptick1fx3nv5zcd8dhaahylq4casuvuacdm0u74t6w8n",
+		"Jailed": true,
+		"times": "521826",
+		"SurRate": "91.43"
+	},
+	"E3B3D9C17357720D5353855C8ADA4CDE4AD516E4": {
+		"Address": "E3B3D9C17357720D5353855C8ADA4CDE4AD516E4",
+		"AccAddress": "uptick1lxdqxhrsregmmasas3tfqcghdzrcvrggn0jlnk",
+		"Jailed": true,
+		"times": "321056",
+		"SurRate": "56.25"
+	},
+	"E3D0293D454B3F801091DD8D7673C6662B6DAD79": {
+		"Address": "E3D0293D454B3F801091DD8D7673C6662B6DAD79",
+		"AccAddress": "uptick17744ucq94w8td0sruxxm03d2m32yl8gm2fmxv0",
+		"Jailed": true,
+		"times": "150627",
+		"SurRate": "26.39"
+	},
+	"E5306F3121F6FCA16190F744D8374049A53D2952": {
+		"Address": "E5306F3121F6FCA16190F744D8374049A53D2952",
+		"AccAddress": "uptick10444d536ty3lanmnaxhf7vl8y9n4nc3nmwut43",
+		"Jailed": false,
+		"times": "15034",
+		"SurRate": "2.63"
+	},
+	"E8324C3E292F012CA0DAA214FD9E02AE8CA7056E": {
+		"Address": "E8324C3E292F012CA0DAA214FD9E02AE8CA7056E",
+		"AccAddress": "uptick1xsln6ktg53adlpagw28vsn9c74g6wdk3utr8ym",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"E8496774415D80CAAE6D34004E8F92C11906F4C0": {
+		"Address": "E8496774415D80CAAE6D34004E8F92C11906F4C0",
+		"AccAddress": "uptick1sct8c0s2kd5ar39qwnhylftw5a89yhnzhxnhms",
+		"Jailed": false,
+		"times": "18853",
+		"SurRate": "3.30"
+	},
+	"EA4E3961CFD209E86CCECFF26BA5A1DD9AE59C58": {
+		"Address": "EA4E3961CFD209E86CCECFF26BA5A1DD9AE59C58",
+		"AccAddress": "uptick12w85y9tp80g7jnl99u0jj0q995jsx63phc88t3",
+		"Jailed": true,
+		"times": "1",
+		"SurRate": "0.00"
+	},
+	"EAA35E70A4E606AEE001501F44FC16918A3B3452": {
+		"Address": "EAA35E70A4E606AEE001501F44FC16918A3B3452",
+		"AccAddress": "uptick1q0nkfducyw09ye0jplx92rrrlmkyfyx6ad976a",
+		"Jailed": true,
+		"times": "275750",
+		"SurRate": "48.31"
+	},
+	"ECFDB7891DB560CEDA6D180CF3F4F82F4A2CDA5B": {
+		"Address": "ECFDB7891DB560CEDA6D180CF3F4F82F4A2CDA5B",
+		"AccAddress": "uptick1fahaqtgww33qca6ndgnjy3pzd8clmygn6wd003",
+		"Jailed": false,
+		"times": "499112",
+		"SurRate": "87.45"
+	},
+	"ED1579D18239CD333E75BE7D4EF1316F2A47E0E2": {
+		"Address": "ED1579D18239CD333E75BE7D4EF1316F2A47E0E2",
+		"AccAddress": "uptick1pucflery0cs9dr8k9r8yj4wxnkk0lvd9lc97n6",
+		"Jailed": false,
+		"times": "569138",
+		"SurRate": "99.72"
+	},
+	"ED636E4B54236CE81327B794FC1B282603FBC330": {
+		"Address": "ED636E4B54236CE81327B794FC1B282603FBC330",
+		"AccAddress": "uptick147sy6qk84w40fgedglqr087wwmmc02cg3uwnfx",
+		"Jailed": true,
+		"times": "7397",
+		"SurRate": "1.30"
+	},
+	"ED67FA203BDC9AA92F96D9730923FA145176C6F3": {
+		"Address": "ED67FA203BDC9AA92F96D9730923FA145176C6F3",
+		"AccAddress": "uptick1g6s0nhxcm9ve9lgdmwljc26yhx3x3t67f7v7q2",
+		"Jailed": true,
+		"times": "476898",
+		"SurRate": "83.56"
+	},
+	"EE74FB45AC78916537C0A9BCE79347C89B49F3DF": {
+		"Address": "EE74FB45AC78916537C0A9BCE79347C89B49F3DF",
+		"AccAddress": "uptick1t9wrulwcwqlergfjk044t0zf5ae2eesqtzsgtn",
+		"Jailed": true,
+		"times": "273518",
+		"SurRate": "47.92"
+	},
+	"EE9171F5B747F680AD10AA2244A29186363F99CD": {
+		"Address": "EE9171F5B747F680AD10AA2244A29186363F99CD",
+		"AccAddress": "uptick1s98uhlruc33ayyu7hd4782fl4mtns5ycltefjp",
+		"Jailed": true,
+		"times": "280764",
+		"SurRate": "49.19"
+	},
+	"EF8199BC18E4F5575EB54101F9E1B9D5701DFB26": {
+		"Address": "EF8199BC18E4F5575EB54101F9E1B9D5701DFB26",
+		"AccAddress": "uptick1cz8hxvz0ee52nzapkz6epa20vh74ks7558kqrs",
+		"Jailed": false,
+		"times": "14817",
+		"SurRate": "2.60"
+	},
+	"EF8BA2A8B8FE1FAAB2FE09AE70F9384E46500542": {
+		"Address": "EF8BA2A8B8FE1FAAB2FE09AE70F9384E46500542",
+		"AccAddress": "uptick1qvtwxhhyg6kxwtldhv3hraen336na6f4gchl2m",
+		"Jailed": false,
+		"times": "560749",
+		"SurRate": "98.25"
+	},
+	"F1D6AFB44E75F65410E5E4EDFD23026A64E6BA4E": {
+		"Address": "F1D6AFB44E75F65410E5E4EDFD23026A64E6BA4E",
+		"AccAddress": "uptick1ptek952csj4yd0ucxm0kvkk3cwuq2nth9wt4gz",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"F213767A1063A6E1EA8013434272DF9DCBBF4D81": {
+		"Address": "F213767A1063A6E1EA8013434272DF9DCBBF4D81",
+		"AccAddress": "uptick15rm04fsyvdk93pytvls0kht8zfg5wv5hyyrqwe",
+		"Jailed": false,
+		"times": "305265",
+		"SurRate": "53.49"
+	},
+	"F32DFE9864FC0497F77DA0CA8A58E0BEC2A150B7": {
+		"Address": "F32DFE9864FC0497F77DA0CA8A58E0BEC2A150B7",
+		"AccAddress": "uptick1gf465vly4l4lg9p896mg64pm30vehu4ywrxngy",
+		"Jailed": true,
+		"times": "548092",
+		"SurRate": "96.03"
+	},
+	"F37087EED29A3925C45209B0EBA7B4C2322D95EF": {
+		"Address": "F37087EED29A3925C45209B0EBA7B4C2322D95EF",
+		"AccAddress": "uptick1s25zltyzmjekxw429g3elqdzj44v9zq7kjzcyy",
+		"Jailed": true,
+		"times": "36948",
+		"SurRate": "6.47"
+	},
+	"F38DA1FE81F6AC54B1325DF48576D08CA05D864C": {
+		"Address": "F38DA1FE81F6AC54B1325DF48576D08CA05D864C",
+		"AccAddress": "uptick1ntzzhz8pf8pzux2welhav68wep90p23v39thnh",
+		"Jailed": true,
+		"times": "59668",
+		"SurRate": "10.45"
+	},
+	"F6FA30D729D23CB68642D3B9015B4F6490C6CED7": {
+		"Address": "F6FA30D729D23CB68642D3B9015B4F6490C6CED7",
+		"AccAddress": "uptick1ln4chyv9maucwkhfdd0zh54nu93p9jw6uk3r2x",
+		"Jailed": false,
+		"times": "570346",
+		"SurRate": "99.93"
+	},
+	"F7720957B78B19A53DA9E6F814E4FB37E5717212": {
+		"Address": "F7720957B78B19A53DA9E6F814E4FB37E5717212",
+		"AccAddress": "uptick1me50gw0zfwmqsmw5vrqhchla0egqhc62vmfatk",
+		"Jailed": false,
+		"times": "249363",
+		"SurRate": "43.69"
+	},
+	"F797E58A7BAF8876012EF8F3BD97301E0BD7EDA8": {
+		"Address": "F797E58A7BAF8876012EF8F3BD97301E0BD7EDA8",
+		"AccAddress": "uptick1jve002nq0x3ea533xxns48esuuld23xg7z7uaj",
+		"Jailed": true,
+		"times": "2",
+		"SurRate": "0.00"
+	},
+	"F9093BB2F1ECA6D56DB5A6389BEF1FE005A40E94": {
+		"Address": "F9093BB2F1ECA6D56DB5A6389BEF1FE005A40E94",
+		"AccAddress": "uptick1h06e3nfj3wls4ttne6vmeg4eahedmzgam4zeee",
+		"Jailed": false,
+		"times": "8293",
+		"SurRate": "1.45"
+	},
+	"F986B96A21D1543F445FDC0A969C77003DDCB866": {
+		"Address": "F986B96A21D1543F445FDC0A969C77003DDCB866",
+		"AccAddress": "uptick1hawftdxzhhy6whh2sa4f265hhufuyygxwpg3ug",
+		"Jailed": true,
+		"times": "414475",
+		"SurRate": "72.62"
+	},
+	"F9A64E8D61AA155C19B10A6137D439C6324AF81A": {
+		"Address": "F9A64E8D61AA155C19B10A6137D439C6324AF81A",
+		"AccAddress": "uptick1krfszwgypy2pzzkh94juf4jcnyfkczzqsdptcs",
+		"Jailed": false,
+		"times": "184949",
+		"SurRate": "32.40"
+	},
+	"FA26E966B3F7C2B169C4BBE89BC7938383C3F7E4": {
+		"Address": "FA26E966B3F7C2B169C4BBE89BC7938383C3F7E4",
+		"AccAddress": "uptick1tztp0sp047zxxj2j3pzhtr67w2nmn2a8nhcju4",
+		"Jailed": false,
+		"times": "514587",
+		"SurRate": "90.16"
+	},
+	"FBBA2247525CC645D9B0534B68F07EB8E1A8F906": {
+		"Address": "FBBA2247525CC645D9B0534B68F07EB8E1A8F906",
+		"AccAddress": "uptick1qcf6299df7z5x64mw5q8npdzcwj069gfea3ncg",
+		"Jailed": false,
+		"times": "470321",
+		"SurRate": "82.40"
+	},
+	"FC1F608F46E0328C13679E9ACF7D382D75E565CF": {
+		"Address": "FC1F608F46E0328C13679E9ACF7D382D75E565CF",
+		"AccAddress": "uptick1g5l97jy0s0yxelx2ndw80wmmxk7wwan3znyqgq",
+		"Jailed": false,
+		"times": "569564",
+		"SurRate": "99.79"
+	},
+	"FCD21730F95F7AC7DF2C617291B1CDBAE7B8B76A": {
+		"Address": "FCD21730F95F7AC7DF2C617291B1CDBAE7B8B76A",
+		"AccAddress": "uptick1ccxyq0vpwl2ur673ulce27gxu462mhaqpuu7nw",
+		"Jailed": false,
+		"times": "535765",
+		"SurRate": "93.87"
+	},
+	"FCFD9596AFD05A6C253C0CBE942B67616505FA4F": {
+		"Address": "FCFD9596AFD05A6C253C0CBE942B67616505FA4F",
+		"AccAddress": "uptick1gg7erg3dmg35gh7le7zattvpjpt25xh5qyly25",
+		"Jailed": true,
+		"times": "376754",
+		"SurRate": "66.01"
+	},
+	"FE6024E7557A4104CFFC9544447CB4DDD98BD349": {
+		"Address": "FE6024E7557A4104CFFC9544447CB4DDD98BD349",
+		"AccAddress": "uptick1yydeg607y5utsq3kqvhddaf7zhame64t89g2ew",
+		"Jailed": false,
+		"times": "570116",
+		"SurRate": "99.89"
+	},
+	"FEB3139337F7940AD0C6D96ABCA227C3DF39B027": {
+		"Address": "FEB3139337F7940AD0C6D96ABCA227C3DF39B027",
+		"AccAddress": "uptick1qnuczfawfntt2sjvwna4fvcktswylhm9llczax",
+		"Jailed": false,
+		"times": "560888",
+		"SurRate": "98.27"
+	}
+}
