@@ -36,8 +36,16 @@ Set Peers
 ```
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"4e9c4865b96e4675da9322d50e1ec439161d56ea@54.179.233.10:26656\"/" $HOME/.uptickd/config/config.toml
 
-sed -i.bak -e "s/^max_num_outbound_peers *=.*/max_num_outbound_peers = 0 /" $HOME/.uptickd/config/config.toml
+
 ```
+
+Disable peer nodes
+```
+sed -i.bak -e "s/^max_num_outbound_peers *=.*/max_num_outbound_peers = 0 /" $HOME/.uptickd/config/config.toml
+sed -i.bak -e "s/^max_num_inbound_peers *=.*/max_num_inbound_peers = 0 /" $HOME/.uptickd/config/config.toml
+```
+
+
 
 Restart service
 ```
