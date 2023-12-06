@@ -1,53 +1,30 @@
 ##  Block rollback
 
-Block rollback to specified height 3008021
+### Stop node
+sudo systemctl stop uptickd
 
+### CheckSum genesis.json
+sha256sum $HOME/.uptickd/config/genesis.json
+d78958818abc969ba70dc801e0044c6cc02121cf5baae088258392f1ea72aacc
 
-
-Reset Date
-```
-rm -rf $HOME/.uptickd/data
-```
-
-
-Check version number
-
-```
+### Check Binary version
 uptickd version --long
+commit: 729f183f4bd74a3a0200614194070e21a2540a9c
+version: v0.2.14
 
-#commit: 729f183f4bd74a3a0200614194070e21a2540a9c
-#cosmos_sdk_version: v0.46.13
-#name: uptick
-#server_name: uptickd
-#version: v0.2.14
+### Backup your priv_validator_state.json important
+cp $HOME/.uptickd/data/priv_validator_state.json $HOME/.uptickd/priv_validator_state.json.backup
 
-```
+### Reset data
+sudo rm -rf $HOME/.uptickd/data
+uptickd tendermint unsafe-reset-all --home $HOME/.uptickd/
 
-Download snapshot
-```
-cd  $HOME/.uptickd
+### Download the snapshot
+curl -o - -L https://ss-t.uptick.nodestake.top/2023-12-06_uptick_3012080.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.uptickd
 
-wget https://raw.githubusercontent.com/UptickNetwork/uptick-testnet/main/origin_1170-1/lib/origin_3008021.tar.gz
+### Recover priv_validator_state.json important
+mv $HOME/.uptickd/priv_validator_state.json.backup $HOME/.uptickd/data/priv_validator_state.json
 
-tar -zxvf origin_3008021.tar.gz
-```
-
-Set Peers
-```
-sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"4e9c4865b96e4675da9322d50e1ec439161d56ea@54.179.233.10:26656\"/" $HOME/.uptickd/config/config.toml
-
-
-```
-
-Disable peer nodes
-```
-sed -i.bak -e "s/^max_num_outbound_peers *=.*/max_num_outbound_peers = 0 /" $HOME/.uptickd/config/config.toml
-sed -i.bak -e "s/^max_num_inbound_peers *=.*/max_num_inbound_peers = 0 /" $HOME/.uptickd/config/config.toml
-```
-
-
-
-Restart service
-```
-uptickd start --home $HOME/.uptickd
-```
+### Restart node
+sudo systemctl restart uptickd
+journalctl -f -u uptickd
