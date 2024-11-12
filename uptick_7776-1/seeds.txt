@@ -1,2 +1,0 @@
-7aad751eb956d65388f0cc37ab2ea179e2143e41@seed0.testnet.uptick.network:26656
-7e6c759bcf03641c65659f1b9b2f05ec9de7391b@seed1.testnet.uptick.network:26656
