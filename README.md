@@ -1,3 +1,3 @@
 # Uptick Testnets
 
-The latest testnet is [origin_1170-3](./origin_1170-3). You can find a list of seeds and peers to connect to in the respective directory.
+The most recent main network is [origin_1170-3](./origin_1170-3). In the corresponding directory, you'll be able to locate a list of seeds and peers for connection. 
