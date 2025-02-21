@@ -15,7 +15,7 @@
 # vendor/
 
 # idea
-.idea
+.idea/
 *.xml
 
 # build
